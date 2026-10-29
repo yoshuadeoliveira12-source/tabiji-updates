@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "publishedAt": "2026-10-29T18:19:26.940Z",
+      "title": "First release",
+      "items": [
+        "Tabiji 旅路 launcher and game, version 1.0.0.",
+        "Explore Shinjuku, Kyoto and Osaka, learn Japanese, and build a life."
+      ]
+    }
+  ]
+}
