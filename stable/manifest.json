@@ -2,14 +2,15 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.2",
-  "publishedAt": "2026-10-30T00:16:47.730Z",
+  "version": "1.0.3",
+  "publishedAt": "2026-10-30T01:24:55.503Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Quit button｜終了ボタンを追加",
+    "title": "Playable claw machines｜クレーンゲームで遊べます",
     "items": [
-      "New \"Quit 終了\" button in the pause menu and on the title screen, so you no longer need to close the window. It offers to save first.｜ポーズメニューとタイトル画面に「終了」ボタンを追加。保存してから終了できます。",
-      "New installers have a pixel-art launcher with Japanese labels and Japanese patch notes.｜新しいインストーラーでは、ランチャーがドット絵風になり、日本語表示にも対応します。"
+      "The claw machines in the game centres are now a real mini-game: steer the claw with the arrow keys, press E to drop it, and watch it grab a prize and carry it to the chute. Line it up well or the prize can slip!｜ゲームセンターのクレーンゲームで実際に遊べます。矢印キーでアームを動かし、Eキーで下ろして景品をゲット。ねらいが悪いと落ちることも！",
+      "Five new plush prizes: cat, bear, bunny, penguin and rice ball.｜新しい景品が5種類：ネコ、クマ、ウサギ、ペンギン、おにぎり。",
+      "All Japanese text now loads before the game starts, so words no longer overflow their boxes.｜日本語の文字をすべて先に読み込むようにして、文字がはみ出す問題を直しました。"
     ]
   },
   "files": [
@@ -1159,9 +1160,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-Djl8yvmw.js",
-      "size": 2133980,
-      "sha256": "9b93512b0f43598544fae36b93c384091f78329f190c020f1a6f0acdd4066bde"
+      "path": "assets/index-9R7Um4hL.js",
+      "size": 2144016,
+      "sha256": "bdf5fee3508b300717cd53b083ca0e2b2956065f69e7a4c0433dacf88d9fda3f"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1171,8 +1172,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "24f90b4f678fccf8d72fbba49f86de03f2e5c69b60b9285bdf7d42caabc52c2d"
+      "sha256": "1b8b587f14dbeac1079b380085b26f99528d4af40b4814c7e1604239040c39ed"
     }
   ],
-  "totalSize": 3997962
+  "totalSize": 4007998
 }

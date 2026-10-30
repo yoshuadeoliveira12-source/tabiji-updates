@@ -3,6 +3,16 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.3",
+      "publishedAt": "2026-10-30T01:24:55.503Z",
+      "title": "Playable claw machines｜クレーンゲームで遊べます",
+      "items": [
+        "The claw machines in the game centres are now a real mini-game: steer the claw with the arrow keys, press E to drop it, and watch it grab a prize and carry it to the chute. Line it up well or the prize can slip!｜ゲームセンターのクレーンゲームで実際に遊べます。矢印キーでアームを動かし、Eキーで下ろして景品をゲット。ねらいが悪いと落ちることも！",
+        "Five new plush prizes: cat, bear, bunny, penguin and rice ball.｜新しい景品が5種類：ネコ、クマ、ウサギ、ペンギン、おにぎり。",
+        "All Japanese text now loads before the game starts, so words no longer overflow their boxes.｜日本語の文字をすべて先に読み込むようにして、文字がはみ出す問題を直しました。"
+      ]
+    },
+    {
       "version": "1.0.2",
       "publishedAt": "2026-10-30T00:16:47.730Z",
       "title": "Quit button｜終了ボタンを追加",
