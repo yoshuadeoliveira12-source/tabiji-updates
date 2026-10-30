@@ -2,14 +2,15 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.0",
-  "publishedAt": "2026-10-29T18:19:26.940Z",
+  "version": "1.0.1",
+  "publishedAt": "2026-10-29T23:59:39.878Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "First release",
+    "title": "Text fits its boxes",
     "items": [
-      "Tabiji 旅路 launcher and game, version 1.0.0.",
-      "Explore Shinjuku, Kyoto and Osaka, learn Japanese, and build a life."
+      "Writing no longer runs out of its box, off the screen or into the label beside it, in menus, shops, the phone, lessons, work shifts and class quizzes.",
+      "Long lines are made a little smaller and, if needed, shortened with \"…\". Long dialogue is split across two boxes.",
+      "Fixed layout overlaps in the journal, tourist-stamp list, wardrobe, furniture catalogue, café order screen and lesson feedback."
     ]
   },
   "files": [
@@ -1159,9 +1160,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-DaZ7SFYc.js",
-      "size": 2128476,
-      "sha256": "3bb92777aec00241e793369425a6d38ebea41140844869babeed76e5a72f8243"
+      "path": "assets/index-C-Y1Bh0w.js",
+      "size": 2133382,
+      "sha256": "ab868e5090f5406b45dec5753d557b7eadba269fefe873092ce8f8b861f8f463"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1171,8 +1172,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "ba31a8fefc9baca7cd19d64d0be5dfda9ae03a9c22f7bcbeaef83164118518e5"
+      "sha256": "e7ba6565172ad20a1659d78b9e254e7ac4763badf55584692625b34ad62a5796"
     }
   ],
-  "totalSize": 3992458
+  "totalSize": 3997364
 }

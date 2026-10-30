@@ -3,6 +3,16 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.1",
+      "publishedAt": "2026-10-29T23:59:39.878Z",
+      "title": "Text fits its boxes",
+      "items": [
+        "Writing no longer runs out of its box, off the screen or into the label beside it, in menus, shops, the phone, lessons, work shifts and class quizzes.",
+        "Long lines are made a little smaller and, if needed, shortened with \"…\". Long dialogue is split across two boxes.",
+        "Fixed layout overlaps in the journal, tourist-stamp list, wardrobe, furniture catalogue, café order screen and lesson feedback."
+      ]
+    },
+    {
       "version": "1.0.0",
       "publishedAt": "2026-10-29T18:19:26.940Z",
       "title": "First release",
