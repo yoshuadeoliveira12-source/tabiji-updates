@@ -2,16 +2,16 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.5",
-  "publishedAt": "2026-10-30T15:24:10.593Z",
+  "version": "1.0.6",
+  "publishedAt": "2026-10-30T15:49:46.794Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Three new cities｜新しい街が3つ",
+    "title": "Hotels with rooms, new stations, clear doorways｜ホテルの客室、新しい駅、通りやすい入口",
     "items": [
-      "New cities: Nara (the deer park and old lanes), Hiroshima (river, trams, okonomiyaki and the Peace Memorial Park) and Fukuoka (Hakata ramen and the riverside food stalls).｜新しい街：奈良（鹿と古い町並み）、広島（川、お好み焼き、平和記念公園）、福岡（博多ラーメンと川沿いの屋台）。",
-      "Each city has its own station, shops and people. Take the train from any station, or a taxi between the neighbouring cities.｜どの街にも駅、お店、人々がいます。電車や、近い街へのタクシーで行けます。",
-      "New sightseeing spots by taxi: Tōdai-ji in Nara, Itsukushima Shrine on Miyajima and Dazaifu Tenmangū near Fukuoka.｜タクシーで行ける名所：東大寺、宮島の厳島神社、太宰府天満宮。",
-      "New foods: deer crackers, kakinoha-zushi, Hiroshima okonomiyaki, oysters, momiji manju, tonkotsu ramen, mentaiko and yatai stalls.｜新しい食べ物：鹿せんべい、柿の葉寿司、広島風お好み焼き、かき、もみじ饅頭、豚骨ラーメン、めんたいこ、屋台。"
+      "Hotels now have a lobby and three guest floors with five rooms each. Book a room at the front desk (1–3 nights), take the stairs up, and open your door with your room number. Sleep in the bed to rest. Check-out is at 11:00.｜ホテルにロビーと3つの客室フロアができました（各階5部屋）。フロントで予約（1〜3泊）して、階段で上がり、部屋番号のドアから入れます。ベッドで休めます。チェックアウトは11時です。",
+      "Hotels are in Shinjuku East, Kyoto, Nara, Hiroshima and Fukuoka. Standard, deluxe and suite rooms are on floors 2, 3 and 4.｜ホテルは新宿東、京都、奈良、広島、福岡にあります。2階・3階・4階がスタンダード、デラックス、スイートです。",
+      "Every city now has its own station design.｜どの街にも、それぞれ違う駅の建物があります。",
+      "People no longer stop in front of doors, stairs or exits, so the way in and out is always free.｜人が入口・階段・出口の前で立ち止まらなくなり、いつでも通れます。"
     ]
   },
   "files": [
@@ -1161,9 +1161,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-CA-_u3Mw.js",
-      "size": 2197891,
-      "sha256": "69f020e321b8cc691379d557d89f23a4a9e08c17b5ef9e48ca1501dbbddf0138"
+      "path": "assets/index-DBsXGmlJ.js",
+      "size": 2215502,
+      "sha256": "0a6b66f50c0d234c40afa70e07d8bf297edf01916d981bc8f8e77252561124a6"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1173,8 +1173,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "10c581e5e3ebdcca8ac5844f8aec741af272a5cfc98d1b20d8d1cb9b27d37c2a"
+      "sha256": "f77ff75d45ec1dd95a2657871b50776738e14d3af8c558f54238a96b2589fa43"
     }
   ],
-  "totalSize": 4061873
+  "totalSize": 4079484
 }
