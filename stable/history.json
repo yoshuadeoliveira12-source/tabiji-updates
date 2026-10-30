@@ -3,6 +3,15 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.2",
+      "publishedAt": "2026-10-30T00:16:47.730Z",
+      "title": "Quit button｜終了ボタンを追加",
+      "items": [
+        "New \"Quit 終了\" button in the pause menu and on the title screen, so you no longer need to close the window. It offers to save first.｜ポーズメニューとタイトル画面に「終了」ボタンを追加。保存してから終了できます。",
+        "New installers have a pixel-art launcher with Japanese labels and Japanese patch notes.｜新しいインストーラーでは、ランチャーがドット絵風になり、日本語表示にも対応します。"
+      ]
+    },
+    {
       "version": "1.0.1",
       "publishedAt": "2026-10-29T23:59:39.878Z",
       "title": "Text fits its boxes",

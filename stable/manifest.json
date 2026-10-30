@@ -2,15 +2,14 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.1",
-  "publishedAt": "2026-10-29T23:59:39.878Z",
+  "version": "1.0.2",
+  "publishedAt": "2026-10-30T00:16:47.730Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Text fits its boxes",
+    "title": "Quit button｜終了ボタンを追加",
     "items": [
-      "Writing no longer runs out of its box, off the screen or into the label beside it, in menus, shops, the phone, lessons, work shifts and class quizzes.",
-      "Long lines are made a little smaller and, if needed, shortened with \"…\". Long dialogue is split across two boxes.",
-      "Fixed layout overlaps in the journal, tourist-stamp list, wardrobe, furniture catalogue, café order screen and lesson feedback."
+      "New \"Quit 終了\" button in the pause menu and on the title screen, so you no longer need to close the window. It offers to save first.｜ポーズメニューとタイトル画面に「終了」ボタンを追加。保存してから終了できます。",
+      "New installers have a pixel-art launcher with Japanese labels and Japanese patch notes.｜新しいインストーラーでは、ランチャーがドット絵風になり、日本語表示にも対応します。"
     ]
   },
   "files": [
@@ -1160,9 +1159,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-C-Y1Bh0w.js",
-      "size": 2133382,
-      "sha256": "ab868e5090f5406b45dec5753d557b7eadba269fefe873092ce8f8b861f8f463"
+      "path": "assets/index-Djl8yvmw.js",
+      "size": 2133980,
+      "sha256": "9b93512b0f43598544fae36b93c384091f78329f190c020f1a6f0acdd4066bde"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1172,8 +1171,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "e7ba6565172ad20a1659d78b9e254e7ac4763badf55584692625b34ad62a5796"
+      "sha256": "24f90b4f678fccf8d72fbba49f86de03f2e5c69b60b9285bdf7d42caabc52c2d"
     }
   ],
-  "totalSize": 3997364
+  "totalSize": 3997962
 }
