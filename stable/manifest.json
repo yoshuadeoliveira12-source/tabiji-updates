@@ -2,15 +2,14 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.3",
-  "publishedAt": "2026-10-30T01:24:55.503Z",
+  "version": "1.0.4",
+  "publishedAt": "2026-10-30T14:03:00.498Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Playable claw machines｜クレーンゲームで遊べます",
+    "title": "Your phone is now a keitai｜ケータイになりました",
     "items": [
-      "The claw machines in the game centres are now a real mini-game: steer the claw with the arrow keys, press E to drop it, and watch it grab a prize and carry it to the chute. Line it up well or the prize can slip!｜ゲームセンターのクレーンゲームで実際に遊べます。矢印キーでアームを動かし、Eキーで下ろして景品をゲット。ねらいが悪いと落ちることも！",
-      "Five new plush prizes: cat, bear, bunny, penguin and rice ball.｜新しい景品が5種類：ネコ、クマ、ウサギ、ペンギン、おにぎり。",
-      "All Japanese text now loads before the game starts, so words no longer overflow their boxes.｜日本語の文字をすべて先に読み込むようにして、文字がはみ出す問題を直しました。"
+      "The phone is now a silver flip phone (ケータイ) turned on its side, with a hinge, a keypad and a battery and signal bar on the screen.｜スマホが、シルバーの折りたたみ式ケータイになりました。ヒンジ、キーパッド、電池とアンテナの表示つき。",
+      "Press the number keys 1–9 and 0 to open the matching menu item, or click the keypad: arrows, OK, クリア to go back, 終話 to hang up (close).｜数字キーの1〜9と0でメニューをすぐ開けます。キーパッドのクリックでも操作できます。"
     ]
   },
   "files": [
@@ -1160,9 +1159,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-9R7Um4hL.js",
-      "size": 2144016,
-      "sha256": "bdf5fee3508b300717cd53b083ca0e2b2956065f69e7a4c0433dacf88d9fda3f"
+      "path": "assets/index-0GTYDKQ0.js",
+      "size": 2147502,
+      "sha256": "c41a9fb2d58fb84f3130f00252c486a5ce990de16eb02463880f5f5e31905787"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1172,8 +1171,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "1b8b587f14dbeac1079b380085b26f99528d4af40b4814c7e1604239040c39ed"
+      "sha256": "830fb70b69e08a5814657514e02a71e031ae2748c07f41ce331c950e093380ec"
     }
   ],
-  "totalSize": 4007998
+  "totalSize": 4011484
 }

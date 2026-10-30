@@ -3,6 +3,15 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.4",
+      "publishedAt": "2026-10-30T14:03:00.498Z",
+      "title": "Your phone is now a keitai｜ケータイになりました",
+      "items": [
+        "The phone is now a silver flip phone (ケータイ) turned on its side, with a hinge, a keypad and a battery and signal bar on the screen.｜スマホが、シルバーの折りたたみ式ケータイになりました。ヒンジ、キーパッド、電池とアンテナの表示つき。",
+        "Press the number keys 1–9 and 0 to open the matching menu item, or click the keypad: arrows, OK, クリア to go back, 終話 to hang up (close).｜数字キーの1〜9と0でメニューをすぐ開けます。キーパッドのクリックでも操作できます。"
+      ]
+    },
+    {
       "version": "1.0.3",
       "publishedAt": "2026-10-30T01:24:55.503Z",
       "title": "Playable claw machines｜クレーンゲームで遊べます",
