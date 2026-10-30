@@ -3,6 +3,17 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.5",
+      "publishedAt": "2026-10-30T15:24:10.593Z",
+      "title": "Three new cities｜新しい街が3つ",
+      "items": [
+        "New cities: Nara (the deer park and old lanes), Hiroshima (river, trams, okonomiyaki and the Peace Memorial Park) and Fukuoka (Hakata ramen and the riverside food stalls).｜新しい街：奈良（鹿と古い町並み）、広島（川、お好み焼き、平和記念公園）、福岡（博多ラーメンと川沿いの屋台）。",
+        "Each city has its own station, shops and people. Take the train from any station, or a taxi between the neighbouring cities.｜どの街にも駅、お店、人々がいます。電車や、近い街へのタクシーで行けます。",
+        "New sightseeing spots by taxi: Tōdai-ji in Nara, Itsukushima Shrine on Miyajima and Dazaifu Tenmangū near Fukuoka.｜タクシーで行ける名所：東大寺、宮島の厳島神社、太宰府天満宮。",
+        "New foods: deer crackers, kakinoha-zushi, Hiroshima okonomiyaki, oysters, momiji manju, tonkotsu ramen, mentaiko and yatai stalls.｜新しい食べ物：鹿せんべい、柿の葉寿司、広島風お好み焼き、かき、もみじ饅頭、豚骨ラーメン、めんたいこ、屋台。"
+      ]
+    },
+    {
       "version": "1.0.4",
       "publishedAt": "2026-10-30T14:03:00.498Z",
       "title": "Your phone is now a keitai｜ケータイになりました",

@@ -1,0 +1,1180 @@
+{
+  "schema": 1,
+  "product": "tabiji",
+  "channel": "stable",
+  "version": "1.0.5",
+  "publishedAt": "2026-10-30T15:24:10.593Z",
+  "minLauncherVersion": "1.0.0",
+  "notes": {
+    "title": "Three new cities｜新しい街が3つ",
+    "items": [
+      "New cities: Nara (the deer park and old lanes), Hiroshima (river, trams, okonomiyaki and the Peace Memorial Park) and Fukuoka (Hakata ramen and the riverside food stalls).｜新しい街：奈良（鹿と古い町並み）、広島（川、お好み焼き、平和記念公園）、福岡（博多ラーメンと川沿いの屋台）。",
+      "Each city has its own station, shops and people. Take the train from any station, or a taxi between the neighbouring cities.｜どの街にも駅、お店、人々がいます。電車や、近い街へのタクシーで行けます。",
+      "New sightseeing spots by taxi: Tōdai-ji in Nara, Itsukushima Shrine on Miyajima and Dazaifu Tenmangū near Fukuoka.｜タクシーで行ける名所：東大寺、宮島の厳島神社、太宰府天満宮。",
+      "New foods: deer crackers, kakinoha-zushi, Hiroshima okonomiyaki, oysters, momiji manju, tonkotsu ramen, mentaiko and yatai stalls.｜新しい食べ物：鹿せんべい、柿の葉寿司、広島風お好み焼き、かき、もみじ饅頭、豚骨ラーメン、めんたいこ、屋台。"
+    ]
+  },
+  "files": [
+    {
+      "path": "assets/dotgothic16-10-400-normal-CxZhSOI0.woff",
+      "size": 11612,
+      "sha256": "2094ce79fdf4bf57e2d29eb5f093afad844484e69b24993d7deccb24c6812bf1"
+    },
+    {
+      "path": "assets/dotgothic16-10-400-normal-XBm6YP3Q.woff2",
+      "size": 9368,
+      "sha256": "6c53d455bba947af387833191a56ec9d0a4184a80d934c45fd8462877eb88b46"
+    },
+    {
+      "path": "assets/dotgothic16-100-400-normal-C5cPANc4.woff2",
+      "size": 5332,
+      "sha256": "7637dc07781a5f96bae1159fb7d7878fdbec37b22db8876d37db76bfce407573"
+    },
+    {
+      "path": "assets/dotgothic16-100-400-normal-CiiR0elX.woff",
+      "size": 6716,
+      "sha256": "992de074c61c9e5c3426f6f6fe630c5e776b4d42d838bd75dfe7f19fcba6a81f"
+    },
+    {
+      "path": "assets/dotgothic16-101-400-normal-Dsm6JhyX.woff",
+      "size": 6200,
+      "sha256": "0f5b528e0c46a1227dfe5e583cd7ab31a0783319c2885ad3867a4af27b6bf99f"
+    },
+    {
+      "path": "assets/dotgothic16-101-400-normal-NoKQQoJs.woff2",
+      "size": 4896,
+      "sha256": "fe0f932815ed462215f109fb4d25ebde2cc8c70f0e76fae18b1e5d22202ce7d3"
+    },
+    {
+      "path": "assets/dotgothic16-102-400-normal-DDmZwJ9q.woff",
+      "size": 6584,
+      "sha256": "c2b54e5a3e6b80e0913278f7b06aed26fe146f8420a83c0bedc0894a137e09bb"
+    },
+    {
+      "path": "assets/dotgothic16-102-400-normal-DW2RuSjB.woff2",
+      "size": 5208,
+      "sha256": "86d527a4e8d5c716a0f6559cafcec86135523e68543d4e51acd61950819f8cac"
+    },
+    {
+      "path": "assets/dotgothic16-103-400-normal-BB8xiwuw.woff2",
+      "size": 5112,
+      "sha256": "d6cd7961ca5b25291be6ffb9537325128c9e624e7325eef0a7a5a2d4d54d9bae"
+    },
+    {
+      "path": "assets/dotgothic16-103-400-normal-DrgyRGn5.woff",
+      "size": 6480,
+      "sha256": "f09241bfb4ee6c1c3c0dbfdb77e782f514470acf950436859f78c0b96e45025c"
+    },
+    {
+      "path": "assets/dotgothic16-104-400-normal-Czy29mv1.woff",
+      "size": 6432,
+      "sha256": "a082bd03db7927a55b99e9fd774aaa8a33b7629d5ebcebfabbe822b67b4ee3db"
+    },
+    {
+      "path": "assets/dotgothic16-104-400-normal-wV6xEcPU.woff2",
+      "size": 5068,
+      "sha256": "30f0641a0b36d4ac5f47ee00a071839ee91dfe81b508cce63058e4eaea4e6d71"
+    },
+    {
+      "path": "assets/dotgothic16-105-400-normal-Bs4guwgN.woff",
+      "size": 6708,
+      "sha256": "327942bbf28a5c43aac69bff3c4b214d51eb6cf59a555c3d303bf2230a94ec72"
+    },
+    {
+      "path": "assets/dotgothic16-105-400-normal-n1-uyjvz.woff2",
+      "size": 5312,
+      "sha256": "357c49fe2f7dabf1cdc47452d4f1e0e6c1b7a7f47b8a47d5676f551f7796a22a"
+    },
+    {
+      "path": "assets/dotgothic16-106-400-normal-3lmI7eWp.woff",
+      "size": 6904,
+      "sha256": "3e4d0e0ace817b05714d46469aa58b9809ca20bd75364c70038549f3754b4408"
+    },
+    {
+      "path": "assets/dotgothic16-106-400-normal-BFmhmkOi.woff2",
+      "size": 5488,
+      "sha256": "42cd4b4ccf112349f2d9a6d3a1c7d269dffa1676b7300d468fbccee6ac75928a"
+    },
+    {
+      "path": "assets/dotgothic16-107-400-normal-CjYnybmJ.woff",
+      "size": 6732,
+      "sha256": "c617e7a9467581322032463732fa6fc8a22ce47d9addafb0d00e7b863245e2a1"
+    },
+    {
+      "path": "assets/dotgothic16-107-400-normal-_0P37778.woff2",
+      "size": 5224,
+      "sha256": "e9180e42122f2785cee913aea799966cf29104e43ff1115f0479fc449a7b5135"
+    },
+    {
+      "path": "assets/dotgothic16-108-400-normal-CGPl0O4A.woff2",
+      "size": 5368,
+      "sha256": "90c3cc2a312ab0d4479f92ebb5a153cef5c00f216f1a95d4839355156f0bf4d6"
+    },
+    {
+      "path": "assets/dotgothic16-108-400-normal-D876Yn9y.woff",
+      "size": 6720,
+      "sha256": "6d76d78e3cf4832f3869e857bd195b85b7677c50d3af7e0353bb734bd45cf2ba"
+    },
+    {
+      "path": "assets/dotgothic16-109-400-normal-BwzmUaWe.woff",
+      "size": 6208,
+      "sha256": "2c03979c60a7d3e3b223c9ad156663cd6406191eae6dfdb92bc8b76fea6814c3"
+    },
+    {
+      "path": "assets/dotgothic16-109-400-normal-DNUUP1eJ.woff2",
+      "size": 4880,
+      "sha256": "0aa87a8186a49765db84128819f46cab1791eeb2245e38321c660797f00a1c77"
+    },
+    {
+      "path": "assets/dotgothic16-11-400-normal-C5zLcBMS.woff2",
+      "size": 8680,
+      "sha256": "7e64c4c429e89dc54948b009e28eec12e1e67f4f9ba840129a3fa1b3348668ae"
+    },
+    {
+      "path": "assets/dotgothic16-11-400-normal-DBH7Prh4.woff",
+      "size": 10984,
+      "sha256": "c7a5694b9b01009a0409953e4378cea6c130ba3bccf749d7dbe8a56b13123019"
+    },
+    {
+      "path": "assets/dotgothic16-110-400-normal-BbsWO90A.woff",
+      "size": 6412,
+      "sha256": "bb5b3f79a4d6025cd04a88d18d18e5b32c8c26f7adb56b3a42388fb1496d7a86"
+    },
+    {
+      "path": "assets/dotgothic16-110-400-normal-ChAwD9Ce.woff2",
+      "size": 5076,
+      "sha256": "76c59afd8a9b8fbdadc711c3be2f6b19f90204977660d3c2ba58d9addf8bd168"
+    },
+    {
+      "path": "assets/dotgothic16-111-400-normal-DqxjkMOk.woff",
+      "size": 6716,
+      "sha256": "d1b6e9b962f914c9c0a7c3fa20b186585e0963ea83f71079430d68b1aa98bb87"
+    },
+    {
+      "path": "assets/dotgothic16-111-400-normal-xJkwhyOg.woff2",
+      "size": 5224,
+      "sha256": "c682fc741c966ce592dd1ba8774df03ffb3608c934b6b9e13356d8600d379cb8"
+    },
+    {
+      "path": "assets/dotgothic16-112-400-normal--6jLetYC.woff",
+      "size": 6236,
+      "sha256": "57444c5bfd435e022ce0e41a5646e0a68f2c81ed0201bd5937dac0f5f9e06174"
+    },
+    {
+      "path": "assets/dotgothic16-112-400-normal-DBQmMkJU.woff2",
+      "size": 4928,
+      "sha256": "5d8a723757dbc4129aa5253bcbb7832fe2d1c6cc940159650979bf25427b416b"
+    },
+    {
+      "path": "assets/dotgothic16-113-400-normal-DXv3xE_z.woff",
+      "size": 6212,
+      "sha256": "b411314b17370cb9b06e58175cdb84237a3bcc2de87251f7e490f36e38e35ec1"
+    },
+    {
+      "path": "assets/dotgothic16-113-400-normal-Db_mJ9ZX.woff2",
+      "size": 4756,
+      "sha256": "03cac81c10051a2d87e6bc48a01af904d79f83022098e481998999ee18a83a04"
+    },
+    {
+      "path": "assets/dotgothic16-114-400-normal-Ch6ldd1t.woff2",
+      "size": 4624,
+      "sha256": "35fb75958527b1a7a97f8f9e82d677abc61a7943d043e2aa626d5c2bb8451529"
+    },
+    {
+      "path": "assets/dotgothic16-114-400-normal-Dyhkj4xU.woff",
+      "size": 5972,
+      "sha256": "23d89ebf3194ef7d9ebc9365a570f6fc12e53d671f655051096b4ca38828fc3b"
+    },
+    {
+      "path": "assets/dotgothic16-115-400-normal-CdUd_Wqs.woff",
+      "size": 6160,
+      "sha256": "c0c2403a6fda9661c0a71257aab72623c91883f1a9e180d49c06e136dcb7bd5a"
+    },
+    {
+      "path": "assets/dotgothic16-115-400-normal-D8cRvKlf.woff2",
+      "size": 4820,
+      "sha256": "e971e09184f324d412edb3b8d2d58dabb2b55206ad184d7486a2e3cdae2c91d1"
+    },
+    {
+      "path": "assets/dotgothic16-116-400-normal-B_ZAfQ26.woff",
+      "size": 6280,
+      "sha256": "bf0db1d9bca50e95623433da882629da5b36804da2247fc4466bfbd23d6b274b"
+    },
+    {
+      "path": "assets/dotgothic16-116-400-normal-C1LzDmGn.woff2",
+      "size": 4884,
+      "sha256": "49479c96dfddda74ad72d5be4295640f62d9632279b60cfa5a2af4742d32f022"
+    },
+    {
+      "path": "assets/dotgothic16-117-400-normal-B0DDKDTK.woff",
+      "size": 5492,
+      "sha256": "affc45adb42f6c5df97ea8d9e5a853723ed2edbcf991d80a91c316a9003e39f6"
+    },
+    {
+      "path": "assets/dotgothic16-117-400-normal-DQFWJrKE.woff2",
+      "size": 4200,
+      "sha256": "d60fc777a5a93faacf16247ee7fac247464f03228b318caf89d53681f1cc13bf"
+    },
+    {
+      "path": "assets/dotgothic16-118-400-normal-BkcH-j0o.woff2",
+      "size": 6496,
+      "sha256": "66ba275189e561eaff2701a134b5962a0610d7be30dd86faf1c4020f720d27cb"
+    },
+    {
+      "path": "assets/dotgothic16-118-400-normal-DjYhk3vV.woff",
+      "size": 9460,
+      "sha256": "c753fb69edaabcde970e77d285d291ff859147de504724ae3691de4b9e03b4a7"
+    },
+    {
+      "path": "assets/dotgothic16-119-400-normal-CqOxGV82.woff2",
+      "size": 8312,
+      "sha256": "44a422f98add7041127982b7305850760768b50bad29fb00bad4bb56e81f9b14"
+    },
+    {
+      "path": "assets/dotgothic16-119-400-normal-DS-Yv__z.woff",
+      "size": 11232,
+      "sha256": "e9464eadef39dd45ccaa8db48cc1235e0795c7d9bb9fc1b944ba81f3630de301"
+    },
+    {
+      "path": "assets/dotgothic16-12-400-normal-DJJJ5wcg.woff",
+      "size": 10056,
+      "sha256": "a0d5db6c95f2d8e09d0e900adf73cc1523f75d27eef9bcd45cee103eea52bca5"
+    },
+    {
+      "path": "assets/dotgothic16-12-400-normal-ktXtUDZG.woff2",
+      "size": 7968,
+      "sha256": "bc36a4c315831c411e23a12a6109a6c4ada0c3897f3a0f9a1cd5030b0029a3b9"
+    },
+    {
+      "path": "assets/dotgothic16-13-400-normal-CnndmOdg.woff",
+      "size": 9452,
+      "sha256": "d2b8060786e2f06ef5de7742a1836d4889294786e6209108c9ca65704bf2ea2d"
+    },
+    {
+      "path": "assets/dotgothic16-13-400-normal-DU19P-j7.woff2",
+      "size": 7484,
+      "sha256": "3d7162dbd88e595cce9cdc66ceec8fc5d99f3f684bb7c550a84b55d728f0e8d4"
+    },
+    {
+      "path": "assets/dotgothic16-14-400-normal-BOhxxtUV.woff",
+      "size": 10112,
+      "sha256": "0f48cb831c2e5399c2ccfb10ff926f5a989c65da53552007e346a72095e1b133"
+    },
+    {
+      "path": "assets/dotgothic16-14-400-normal-C7WZ2svY.woff2",
+      "size": 8164,
+      "sha256": "6de75d736009a99228344872caa9560796e851c0387589f368e058f2b969b46c"
+    },
+    {
+      "path": "assets/dotgothic16-15-400-normal-CeL9X1aw.woff",
+      "size": 11664,
+      "sha256": "5c05b89308c093f4c6f92f78985889fbbe0d092355e687327aec304daed32b1d"
+    },
+    {
+      "path": "assets/dotgothic16-15-400-normal-D2_e2n1W.woff2",
+      "size": 9576,
+      "sha256": "dd205402d862c0231a552cedf024b5211d27ac95145374b16b61399b651281ea"
+    },
+    {
+      "path": "assets/dotgothic16-16-400-normal-D1GJV4Bt.woff",
+      "size": 10672,
+      "sha256": "1080ad83357a56f82c742104f92e03afc0aabdc2caf09a41fff7c31dda16b1b9"
+    },
+    {
+      "path": "assets/dotgothic16-16-400-normal-DRoxv7y3.woff2",
+      "size": 8588,
+      "sha256": "6965c0eb4e9b10a305b1dce2897547123d8d47afdf5906ac5869abc3b4fbf057"
+    },
+    {
+      "path": "assets/dotgothic16-17-400-normal-DG2QyB2w.woff2",
+      "size": 8584,
+      "sha256": "0709db9d4538e05a9aaa80b3cf355745ccca7f192fdad97243d8f8393094051b"
+    },
+    {
+      "path": "assets/dotgothic16-17-400-normal-Swfs6HZ6.woff",
+      "size": 10748,
+      "sha256": "a08d2aa7b8404d7b553528b86ced26e3fefb3a9dd470e2672bd0ccf405f59622"
+    },
+    {
+      "path": "assets/dotgothic16-18-400-normal-C0xHJSF5.woff",
+      "size": 9532,
+      "sha256": "5d91a0f9a33b7f053bb283c6066bd78b898f2c329dfd2d9c34dc583fc72dcf01"
+    },
+    {
+      "path": "assets/dotgothic16-18-400-normal-K9MKKTr8.woff2",
+      "size": 7592,
+      "sha256": "98fd58a436b00541388c5ab7d096749803fdfe8ea09c110766e054fb91c7f0db"
+    },
+    {
+      "path": "assets/dotgothic16-19-400-normal-CA-5WGDA.woff",
+      "size": 11224,
+      "sha256": "b5a7d273fdbc34c13c77220be0943127ec98965475d2516dc1e336dafb184f43"
+    },
+    {
+      "path": "assets/dotgothic16-19-400-normal-CXwThgld.woff2",
+      "size": 9064,
+      "sha256": "74a1504a60063dd25cefde651da5b8268994a7e005f89ea788192feb8da27922"
+    },
+    {
+      "path": "assets/dotgothic16-20-400-normal-BDMMHx9_.woff2",
+      "size": 7700,
+      "sha256": "92e30765cbdca900b4ca7b9911a946351d6f6d425b839fe1319f825d6da92d10"
+    },
+    {
+      "path": "assets/dotgothic16-20-400-normal-DPaAWFSf.woff",
+      "size": 9644,
+      "sha256": "f4c5d999f36974dcfb5f5b982a26cf4544cd1a76cfada47291d9982f5a15272b"
+    },
+    {
+      "path": "assets/dotgothic16-21-400-normal-C7qQQSh1.woff",
+      "size": 10540,
+      "sha256": "f8e402493d1196de709f52667612904a7c131320b4306bab771dca1c0b182533"
+    },
+    {
+      "path": "assets/dotgothic16-21-400-normal-nmkcTX2N.woff2",
+      "size": 8488,
+      "sha256": "07ffa45f8308c14223d39f9bb137772d9fa83ed34c0fb75fd521e352beb5326d"
+    },
+    {
+      "path": "assets/dotgothic16-22-400-normal-5Td3eOG5.woff2",
+      "size": 8348,
+      "sha256": "2ecf5429532ed5df70c05d3054540852be61b29d4cd747058c7272bd25c8d437"
+    },
+    {
+      "path": "assets/dotgothic16-22-400-normal-C87ovZsF.woff",
+      "size": 10320,
+      "sha256": "b6043b6c1252cbd2baf8be31acd4f8522c76bfd87896a54d76136d885e33d400"
+    },
+    {
+      "path": "assets/dotgothic16-23-400-normal-CYGxt2Pc.woff2",
+      "size": 10360,
+      "sha256": "50657ca936acbbc94be45acae3251b9a6a1664efc694bc9d90a1eaa67d8edeb4"
+    },
+    {
+      "path": "assets/dotgothic16-23-400-normal-y8E7XcSX.woff",
+      "size": 13004,
+      "sha256": "c614763575f153132301a49c0997bfcabc9452dc8755a2b126376f05249285e4"
+    },
+    {
+      "path": "assets/dotgothic16-24-400-normal-CZOfGULC.woff2",
+      "size": 9012,
+      "sha256": "c9953f8ae76c39d212593b3c5a0e25522b1d1640616b9ae5fad862997e00bea4"
+    },
+    {
+      "path": "assets/dotgothic16-24-400-normal-fAAY4RUU.woff",
+      "size": 11136,
+      "sha256": "02893069e1ad71d4e92f07c65c84e65c9012437d9c1fd2def39f57e594f30abc"
+    },
+    {
+      "path": "assets/dotgothic16-25-400-normal-5jKLIoAD.woff2",
+      "size": 9012,
+      "sha256": "2152cb581ab582dfbc68747f7084d67c14d2c41631a84978b4a194d96edb7c7e"
+    },
+    {
+      "path": "assets/dotgothic16-25-400-normal-BQSr9X1E.woff",
+      "size": 11088,
+      "sha256": "e360b1d396c2f63b0af881d02252d6e6d2f904a2f2da95826ceeb1a7664a4818"
+    },
+    {
+      "path": "assets/dotgothic16-26-400-normal-9Bl8o9i0.woff",
+      "size": 9612,
+      "sha256": "8291211f374454214061aae64cc2242441d55dad37291a8717cd5f5633da71f2"
+    },
+    {
+      "path": "assets/dotgothic16-26-400-normal-hFMhUtEr.woff2",
+      "size": 7684,
+      "sha256": "8b1050c3fa961342bf2c4394d0da6c0c1b54da065f81db1df8dc5e610673c9e3"
+    },
+    {
+      "path": "assets/dotgothic16-27-400-normal-D1aTxIFo.woff2",
+      "size": 7580,
+      "sha256": "544ced0b1ea642e71c83ba34152679f72a0d484da8ab9fa42df9d4756cb86e50"
+    },
+    {
+      "path": "assets/dotgothic16-27-400-normal-DcBiiY5J.woff",
+      "size": 9424,
+      "sha256": "2104df85af520420b648d3b4312977ed0d6c6f3c68fcbd6657b8974e597e0d29"
+    },
+    {
+      "path": "assets/dotgothic16-28-400-normal-Ba6pgEWc.woff",
+      "size": 10460,
+      "sha256": "6aa14b3e9e9b03a69cb5b1dff3592d6a482601f0fcc0922e2ab3f07bf3c749aa"
+    },
+    {
+      "path": "assets/dotgothic16-28-400-normal-CfIcqNxF.woff2",
+      "size": 8404,
+      "sha256": "a7613223354221668a8aad2e8c47a2b6008588040669c0cc556c4b3c5778774e"
+    },
+    {
+      "path": "assets/dotgothic16-29-400-normal-BZ4N8lkp.woff2",
+      "size": 7092,
+      "sha256": "5a56d37413d39024955bd89fec0fe2940b55641572b190d7d0f58d7a9e777b66"
+    },
+    {
+      "path": "assets/dotgothic16-29-400-normal-C2UQl4Nc.woff",
+      "size": 8956,
+      "sha256": "032e1b89f23d6ec5bb9405c5760a5ea53b5ba126dbb3e9ebae2f36d28716af9d"
+    },
+    {
+      "path": "assets/dotgothic16-3-400-normal-CqmRfGJf.woff2",
+      "size": 5028,
+      "sha256": "5e920680a5787983c01c2e3eea95997211f50988191b8067b81cc4778bdc9e90"
+    },
+    {
+      "path": "assets/dotgothic16-3-400-normal-iGhXFWLW.woff",
+      "size": 6768,
+      "sha256": "c627417d11157d3736f1a60e529630bc0fcfae017660e4cae577a170a30866cb"
+    },
+    {
+      "path": "assets/dotgothic16-30-400-normal-BFyPIE1i.woff",
+      "size": 10724,
+      "sha256": "def255ccccbd4b67bd982015128669c543b400c593e797870d75ea19ce05da90"
+    },
+    {
+      "path": "assets/dotgothic16-30-400-normal-BZQi52gO.woff2",
+      "size": 8712,
+      "sha256": "1b4087772b4c6295f479f94becf452951fd9404eec9b1879ad7047f6bf30e57a"
+    },
+    {
+      "path": "assets/dotgothic16-31-400-normal-C6dEtF7a.woff",
+      "size": 11952,
+      "sha256": "fe22bdf1d541830ec1afe5cae3714e1d26fcd4fc22f1333ba841d7d6d5b73602"
+    },
+    {
+      "path": "assets/dotgothic16-31-400-normal-Ceq9lyc6.woff2",
+      "size": 9516,
+      "sha256": "7cf3f4138c840f8a01db478df276004d4829beee0d925d35ee3875b0ec7170ab"
+    },
+    {
+      "path": "assets/dotgothic16-32-400-normal-CuRYI7Q9.woff",
+      "size": 11212,
+      "sha256": "69eded8efa8dafbb649d4e30b9e2d32845199d98b739fb5b131b6e0e729764f2"
+    },
+    {
+      "path": "assets/dotgothic16-32-400-normal-DoUiChor.woff2",
+      "size": 8992,
+      "sha256": "99cf5cf09c7626f509de0c2f39d887573520aff83633064bf850017b31543bee"
+    },
+    {
+      "path": "assets/dotgothic16-33-400-normal-DIDR44KW.woff2",
+      "size": 7204,
+      "sha256": "fe02eed218dec8705a1e23f296f4ea77d7cedc9ecc3ee85d6089840bc905ae46"
+    },
+    {
+      "path": "assets/dotgothic16-33-400-normal-DrdMbSEZ.woff",
+      "size": 9108,
+      "sha256": "dcb184bf0b8a1584fffa4df7b84599636650c2f6cb4d8a04121608c34506cb24"
+    },
+    {
+      "path": "assets/dotgothic16-34-400-normal-h6RA-2pn.woff2",
+      "size": 9116,
+      "sha256": "78603f0cff813eb4382610b44b50c4e214ea9445d93f3fa8866c4337dcde8563"
+    },
+    {
+      "path": "assets/dotgothic16-34-400-normal-kEC3BPE0.woff",
+      "size": 11328,
+      "sha256": "d50607cd0a062a4058cb0985dfbf5dd5820e7dceb454b7287a8524b1e59cdd81"
+    },
+    {
+      "path": "assets/dotgothic16-35-400-normal-C9wXHR03.woff",
+      "size": 10804,
+      "sha256": "9711e0c50c7500fa6346c4c10781fccab3542fe638f18fcf6eded175c84d5fa1"
+    },
+    {
+      "path": "assets/dotgothic16-35-400-normal-nRcmIhX7.woff2",
+      "size": 8608,
+      "sha256": "000bcb67c2fed8d0739f7c8e1be35c3d28a781607ed7bffcab8e6b2a671fe10e"
+    },
+    {
+      "path": "assets/dotgothic16-36-400-normal-BJHTs5SI.woff",
+      "size": 9704,
+      "sha256": "b3d73d0924c91c4a289b2fdfb3b80f287d4a9fa636d4f94cfbc9212e7bb3bdf4"
+    },
+    {
+      "path": "assets/dotgothic16-36-400-normal-CHEeH6ZD.woff2",
+      "size": 7680,
+      "sha256": "474cea020aeb1447273fa0286a4bd8f3a67eed71aaca074119624af2c717a237"
+    },
+    {
+      "path": "assets/dotgothic16-37-400-normal-O3lkKp8G.woff2",
+      "size": 8608,
+      "sha256": "eb6e4d301cbf49a8c9c4c70ea10fc83840834562505692e2f5aade0401018483"
+    },
+    {
+      "path": "assets/dotgothic16-37-400-normal-Uw_IWHNY.woff",
+      "size": 10732,
+      "sha256": "4cb1f9370692b59164515391041d75f8617bb8c8645a6b9a1beefb7a94d5dd40"
+    },
+    {
+      "path": "assets/dotgothic16-38-400-normal-B-uoQnWv.woff2",
+      "size": 6880,
+      "sha256": "2b22fc83018883b4d2301be808f8ff6b186e7183e080282da18ad0f885612517"
+    },
+    {
+      "path": "assets/dotgothic16-38-400-normal-BH1x9rDs.woff",
+      "size": 8684,
+      "sha256": "bc3afd3361f303f2847b9b3f4860e30971e2e6f58e6c9162e6a259e29393d79e"
+    },
+    {
+      "path": "assets/dotgothic16-39-400-normal-DM2y8kCE.woff2",
+      "size": 9348,
+      "sha256": "2ac7956c33a3691ae5ca689c61c8ffc866abdeba5bc165cd61d4949fc42b4bb3"
+    },
+    {
+      "path": "assets/dotgothic16-39-400-normal-DogmVT_b.woff",
+      "size": 11676,
+      "sha256": "ea0146de447e605243f5d8c2d2f61c5425054a7cb01cfafe1b01493d933891e9"
+    },
+    {
+      "path": "assets/dotgothic16-40-400-normal--3reBkMu.woff",
+      "size": 10136,
+      "sha256": "ba041d2a6983739b81e7fa9e2d38be40814d744e8c9a770affe550b9957dc0e5"
+    },
+    {
+      "path": "assets/dotgothic16-40-400-normal-iVh_8Ltj.woff2",
+      "size": 8080,
+      "sha256": "20f905277355d28063c9e0d69bf917cc91156b099d9d71f90b443c0ffdb26601"
+    },
+    {
+      "path": "assets/dotgothic16-41-400-normal-BmLOgN0H.woff2",
+      "size": 9252,
+      "sha256": "b75283d982b210b4cefd1c307003e37525d2a2bfe65375e01ef1c10678d45c54"
+    },
+    {
+      "path": "assets/dotgothic16-41-400-normal-Dpi067BJ.woff",
+      "size": 11460,
+      "sha256": "d66a5b17dca218399e0d6ddc78b94b7c5b4a1d58420c030b4ea55996994372bc"
+    },
+    {
+      "path": "assets/dotgothic16-42-400-normal-Bql0B2U4.woff",
+      "size": 10456,
+      "sha256": "c231f07d30f25ca6d0cba1100378ce1af2bce0d6f65f3f849d5b21bb6fdad228"
+    },
+    {
+      "path": "assets/dotgothic16-42-400-normal-C3v6WOYV.woff2",
+      "size": 8448,
+      "sha256": "06a40f4e897566577ba3045a532d437d488e0a9695d21a59183ce8c171e3f620"
+    },
+    {
+      "path": "assets/dotgothic16-43-400-normal-2Y73Euw4.woff2",
+      "size": 7156,
+      "sha256": "91fd16a62570a9d8a970ff8935fa54dfe3f4b49397fa93c47fb973186ee34caa"
+    },
+    {
+      "path": "assets/dotgothic16-43-400-normal-wLpxQ09M.woff",
+      "size": 8956,
+      "sha256": "ad537e5769af1b25aef1a1e5a909bb24517bce4ed7d92ecff54745dd9c6620b5"
+    },
+    {
+      "path": "assets/dotgothic16-44-400-normal-B8s0g1CJ.woff2",
+      "size": 8296,
+      "sha256": "763c8ebd3c82928bddd145955f5cda04ebb32ffb9b8c362d687e591060b6861e"
+    },
+    {
+      "path": "assets/dotgothic16-44-400-normal-CCM4Qd4s.woff",
+      "size": 10332,
+      "sha256": "913e3555846a3821f4b1f0493b25b97dc5d642063a08e5aea278bc1e401b5331"
+    },
+    {
+      "path": "assets/dotgothic16-45-400-normal-BHSk-Evz.woff",
+      "size": 8904,
+      "sha256": "21ced4a1e0047d665019979fa4fe8f8a13fc3a12419abfe8d31822be1a194099"
+    },
+    {
+      "path": "assets/dotgothic16-45-400-normal-BjCmhJhi.woff2",
+      "size": 7048,
+      "sha256": "e47cacf6250631f42922a148dbee9643b8b50ea01f8caa0c6ba01ad1dc3de50e"
+    },
+    {
+      "path": "assets/dotgothic16-46-400-normal-CRw5tNwY.woff",
+      "size": 8912,
+      "sha256": "a86e69fc29c23b96ae4d1263fa0267f59db4e3a106bc0f9fe701cafac406dfae"
+    },
+    {
+      "path": "assets/dotgothic16-46-400-normal-XHZ2gdg3.woff2",
+      "size": 7116,
+      "sha256": "84de9e370733ddbdbed64d3ca0983a809863a0f0f2d4193f12888774ad8b29bc"
+    },
+    {
+      "path": "assets/dotgothic16-47-400-normal-CHQGrR_9.woff2",
+      "size": 7524,
+      "sha256": "542003b99e9b8f3ac497e84f20cfa89d5512c15571df81bf4b0014b775717fd6"
+    },
+    {
+      "path": "assets/dotgothic16-47-400-normal-D_1WgspX.woff",
+      "size": 9456,
+      "sha256": "c5126ca8c3c281880569ee92b8d92468ac850ed0ca56d648c6b6159ac96bb415"
+    },
+    {
+      "path": "assets/dotgothic16-48-400-normal-BvbZ1vxA.woff",
+      "size": 10324,
+      "sha256": "0351a28a3b43437832be0b8a9de8021dc980e4099e9cd15e0316850ccbea848d"
+    },
+    {
+      "path": "assets/dotgothic16-48-400-normal-CqIJ7KSA.woff2",
+      "size": 8328,
+      "sha256": "286e95c5bd9151e2fbc3803efc0dbc0d390efadd8500720477b3856c0016eb6d"
+    },
+    {
+      "path": "assets/dotgothic16-49-400-normal-BSB5vq6Y.woff2",
+      "size": 7224,
+      "sha256": "ac6627189d120340c7ec0cbacc144beaa62e9f75f7f1b5d5882d425c0af3a1dc"
+    },
+    {
+      "path": "assets/dotgothic16-49-400-normal-DrfnrBF4.woff",
+      "size": 9116,
+      "sha256": "eb7549cfbc9396decf1875c31ac86eb6eca2a762c8a5a1cdffaa81a44b8b0631"
+    },
+    {
+      "path": "assets/dotgothic16-5-400-normal-DcLOHINF.woff2",
+      "size": 7300,
+      "sha256": "bdfd16c7ad5a212cb10070bb4a8d351f0f9ba963f81d8118c53b5410983cd7c5"
+    },
+    {
+      "path": "assets/dotgothic16-5-400-normal-QFWzBYOy.woff",
+      "size": 9048,
+      "sha256": "c0bf854050322aa16044ae9ab5245ccd67ec24c60e447ad237835d8353bf4aa3"
+    },
+    {
+      "path": "assets/dotgothic16-50-400-normal-BYXhAiHD.woff",
+      "size": 5520,
+      "sha256": "5167db3f3dce824c41861b7e0f2553513e3ab0dd0b9a2469303993262d08d11e"
+    },
+    {
+      "path": "assets/dotgothic16-50-400-normal-BxypR0FB.woff2",
+      "size": 4220,
+      "sha256": "3ac161f86d21669a942538883ec51e1e446af43c5112b9bd0408c189ec0acf92"
+    },
+    {
+      "path": "assets/dotgothic16-52-400-normal-uRiD0-6V.woff2",
+      "size": 5996,
+      "sha256": "8180996b5e7f087ffc1050b213a2c6cb047d19ad797730ac199d0771f228b424"
+    },
+    {
+      "path": "assets/dotgothic16-52-400-normal-wF_EtmJJ.woff",
+      "size": 7608,
+      "sha256": "c5c92a9123a93d93684b744ae240a5bcd22612cdf6dbd5bef9a18583c51e38c4"
+    },
+    {
+      "path": "assets/dotgothic16-53-400-normal-CJrr4ygV.woff2",
+      "size": 4980,
+      "sha256": "0a73316da2298e6a486a534eaa01e3bdf970bc876b8f7be16f7e76bf35f1679d"
+    },
+    {
+      "path": "assets/dotgothic16-53-400-normal-Cn-6kK5F.woff",
+      "size": 6416,
+      "sha256": "144745b9af1ddef96e1687e0d40112216e2980f2435c5c40a6a2aae0ef9383b9"
+    },
+    {
+      "path": "assets/dotgothic16-55-400-normal-BK50FJ8U.woff",
+      "size": 13940,
+      "sha256": "14ea47d12c02835fb522ae9e467c2ac0b9ba1954ac4e5584fcba2629913031f7"
+    },
+    {
+      "path": "assets/dotgothic16-55-400-normal-CLC2FF7Y.woff2",
+      "size": 11292,
+      "sha256": "7a44b183b41f8025f32e0730f07e82afaa1ef44fb6ff3ebca9728a986d77ce7b"
+    },
+    {
+      "path": "assets/dotgothic16-56-400-normal-BJUcfplb.woff",
+      "size": 6044,
+      "sha256": "fea395ff6e95304f4d205f3e041583ac7ddf6a754c1952f6a73c8ccb414b11fa"
+    },
+    {
+      "path": "assets/dotgothic16-56-400-normal-D3lK7zqi.woff2",
+      "size": 4560,
+      "sha256": "f74a5f0a0732dd439cf895a07bbce8f64cdb0878d267617c544f8fdd228c2d46"
+    },
+    {
+      "path": "assets/dotgothic16-58-400-normal-CFGod8TT.woff2",
+      "size": 5488,
+      "sha256": "fc46da3d2b614f75579a305515a6ecdae5e6ad501f820f4720c9c62ba5917303"
+    },
+    {
+      "path": "assets/dotgothic16-58-400-normal-Cy-NeZfY.woff",
+      "size": 7392,
+      "sha256": "8d33c622eee4eaf6e412c89950088675c5584a6fa8c4ed72247cbc119929a44c"
+    },
+    {
+      "path": "assets/dotgothic16-59-400-normal-AsnEgYmn.woff2",
+      "size": 5000,
+      "sha256": "945b1696b339cae9b65d1bbc29489b369d32a90aec5e0b340c1abe7d39ac2fc7"
+    },
+    {
+      "path": "assets/dotgothic16-59-400-normal-C8wOvv0C.woff",
+      "size": 7240,
+      "sha256": "da22731e02e3f767f233daa560cf0e9781a6fcb8f78cce40b6af486166890812"
+    },
+    {
+      "path": "assets/dotgothic16-6-400-normal-CNBXTab_.woff2",
+      "size": 8328,
+      "sha256": "0614d0b29fbedf8763f52d45c6615209edd93f01ba9eb6e6fc1b798f0507ea8f"
+    },
+    {
+      "path": "assets/dotgothic16-6-400-normal-Clm3FWhX.woff",
+      "size": 10480,
+      "sha256": "003ec61b1fc98b159da609d743e0bf5ffc540bfe70ead646d975fe2d45a00091"
+    },
+    {
+      "path": "assets/dotgothic16-60-400-normal-BHnhbBuy.woff2",
+      "size": 5688,
+      "sha256": "3c31400a8a335a42c69aeb5d98e6fa0ab513e4d0c8ccfc6f3119fa81fdaae423"
+    },
+    {
+      "path": "assets/dotgothic16-60-400-normal-BMht2XRx.woff",
+      "size": 7232,
+      "sha256": "15b06ac857204f59a36aa56ab4201528fc700384b46ab5519ac9cd577bfd021c"
+    },
+    {
+      "path": "assets/dotgothic16-61-400-normal-B_IHLeTD.woff2",
+      "size": 5612,
+      "sha256": "3d78b83459529e145b0f73c66cf8f8ea1a3b64e00d653d5accb5ebedc4930471"
+    },
+    {
+      "path": "assets/dotgothic16-61-400-normal-BaicBz6g.woff",
+      "size": 7124,
+      "sha256": "fd60c7072f6fb62810a6e4b4c43d1bca1d0ab002249751b3a9d75a2d14574ff9"
+    },
+    {
+      "path": "assets/dotgothic16-62-400-normal-BNRLHS08.woff",
+      "size": 6980,
+      "sha256": "c651669b2f59a3851e4609f7ae62178b69ea9053ef5a32e2b5f9a00b2629e6bf"
+    },
+    {
+      "path": "assets/dotgothic16-62-400-normal-BhCjUHWL.woff2",
+      "size": 5492,
+      "sha256": "dc31f05759fcca42bb6c495f8cf29d58407e50a3e2f59bb8da4e7948aa6d7061"
+    },
+    {
+      "path": "assets/dotgothic16-63-400-normal-BzCKvNZa.woff",
+      "size": 6532,
+      "sha256": "5d6b963323f2030fbaad431e096be0b287bec6c291cbb644574d4e09281b4e23"
+    },
+    {
+      "path": "assets/dotgothic16-63-400-normal-CHg9wxsM.woff2",
+      "size": 5112,
+      "sha256": "a89abfae90cd0782cc1c7fa56608e3f4d90f77acc2b8285d1ec8fc8a11223788"
+    },
+    {
+      "path": "assets/dotgothic16-64-400-normal-BJxpIedr.woff",
+      "size": 7252,
+      "sha256": "44cff5ea4c8f747548d5d875c35f74cebd70ca6fdf2bb7bc801fa389c15e4dcb"
+    },
+    {
+      "path": "assets/dotgothic16-64-400-normal-ClKxCdyX.woff2",
+      "size": 5796,
+      "sha256": "7ddb398608107755b0669d6afafbd6f0b5a10fb086c991f43e00f426cec5d538"
+    },
+    {
+      "path": "assets/dotgothic16-65-400-normal-BILDTg-M.woff",
+      "size": 7328,
+      "sha256": "447ef2f1b1791e8baaec5a6a057fafd270aa413ebca32d1ea223249ad232a054"
+    },
+    {
+      "path": "assets/dotgothic16-65-400-normal-D_GnWqJJ.woff2",
+      "size": 5796,
+      "sha256": "48b51d2f9098e7529c56796be15e07d9d40b7bcef00529e9a44be67209e6c0d5"
+    },
+    {
+      "path": "assets/dotgothic16-66-400-normal-DAMFP0lv.woff2",
+      "size": 5268,
+      "sha256": "00274f0f992a074c94beb809b57232383af9e43a6bc47165752f1ed69614df11"
+    },
+    {
+      "path": "assets/dotgothic16-66-400-normal-qZO6hU5y.woff",
+      "size": 6724,
+      "sha256": "7c861210eeada3e5ff77c72a7b5f7cbfccaad2bbdcdf8a003fb623e9389d6028"
+    },
+    {
+      "path": "assets/dotgothic16-67-400-normal-DCliEpQW.woff2",
+      "size": 5280,
+      "sha256": "29e55a51aba7c5239af65a68f1a6647cef53886194043ce7bff270bbca883b3c"
+    },
+    {
+      "path": "assets/dotgothic16-67-400-normal-wkBObOXt.woff",
+      "size": 6636,
+      "sha256": "8012d310d2fb02f99a41c11e362fbabe439aaedbc63d700313f2b6c710a5bd8c"
+    },
+    {
+      "path": "assets/dotgothic16-68-400-normal-65QWZhA-.woff2",
+      "size": 5672,
+      "sha256": "1d8b0d4aaa90a97163aeaa6db44e5d49059f355c2451b43a768e08577541f314"
+    },
+    {
+      "path": "assets/dotgothic16-68-400-normal-CT05o7my.woff",
+      "size": 7136,
+      "sha256": "40d95da891585082b427d4573ea97c7328088e6c2a210dc25e8eafd9874f0e4b"
+    },
+    {
+      "path": "assets/dotgothic16-69-400-normal-Cpwmy8AL.woff",
+      "size": 6952,
+      "sha256": "541c7121aff1fefa3ccb25b8bcfe8a4cc1b1574464abaa0c317fcf5cde5c326f"
+    },
+    {
+      "path": "assets/dotgothic16-69-400-normal-eRTRzsdB.woff2",
+      "size": 5536,
+      "sha256": "83f2947cf703c51b9b80342772001c270b48e2d661817f45d8a50860c7806e11"
+    },
+    {
+      "path": "assets/dotgothic16-7-400-normal-Bk4Efuv8.woff2",
+      "size": 8712,
+      "sha256": "131b506b233006b57bb5b86b473575bf6f58cdafee3c5d0679562601799a9cc6"
+    },
+    {
+      "path": "assets/dotgothic16-7-400-normal-BobORT92.woff",
+      "size": 10988,
+      "sha256": "5988871a083286329a1026de2d87bfb8e49594eb90f161a1878074efeaee5530"
+    },
+    {
+      "path": "assets/dotgothic16-70-400-normal-DM4CUgYQ.woff2",
+      "size": 5288,
+      "sha256": "5b4508abe3b41f7d45db2f1510cb1345085beb08d9808258114a5fcc7dda0cd5"
+    },
+    {
+      "path": "assets/dotgothic16-70-400-normal-pjcZkRRl.woff",
+      "size": 6716,
+      "sha256": "94e85a1b36b230f75d7c5c8afa4d9398008d88688c80272b382d51b3ee2cb356"
+    },
+    {
+      "path": "assets/dotgothic16-71-400-normal-Cq6NVvFx.woff",
+      "size": 7000,
+      "sha256": "ccb88d84a47469580e06b4af460d56230389ec06341c3462cff28cc797163990"
+    },
+    {
+      "path": "assets/dotgothic16-71-400-normal-vcYDuTxI.woff2",
+      "size": 5460,
+      "sha256": "410481acbbe9c90660dfcbfcf63e5a2884a8220ef4f0d0be7da54f7b4b620379"
+    },
+    {
+      "path": "assets/dotgothic16-72-400-normal-CHi7HsYu.woff2",
+      "size": 5696,
+      "sha256": "0e78fcd4f898f2997e553d6de731323756f36f266f434c6e3c9135ddd57b30ea"
+    },
+    {
+      "path": "assets/dotgothic16-72-400-normal-CjXO4mw_.woff",
+      "size": 7248,
+      "sha256": "bfe6a04610e9cbe28227753c162e617af9b90b61236a4d3fdfb77dea4b7487ac"
+    },
+    {
+      "path": "assets/dotgothic16-73-400-normal-BgRN-8ow.woff2",
+      "size": 5532,
+      "sha256": "cefc007faeef4ae7dbc8125e5939f98249afb3dab710fcef2d8e075728a01215"
+    },
+    {
+      "path": "assets/dotgothic16-73-400-normal-DIa47_9D.woff",
+      "size": 7044,
+      "sha256": "26650dce93dc2d2d609709d79c266699909cba806c860a60d966e2f8b0e82b4e"
+    },
+    {
+      "path": "assets/dotgothic16-74-400-normal-CoK5YXBi.woff2",
+      "size": 5204,
+      "sha256": "e8a1b819d2d604e9f3971ded9f695f15dc79dbdffa640160372dc625bb9259f2"
+    },
+    {
+      "path": "assets/dotgothic16-74-400-normal-mE31pPgH.woff",
+      "size": 6572,
+      "sha256": "71e3f5b60dc0e142493b09625e07560dc6408a5b629871e22cdf87bb3fe1b913"
+    },
+    {
+      "path": "assets/dotgothic16-75-400-normal-CYlKIaJt.woff",
+      "size": 6988,
+      "sha256": "231c5274fc6c43044ec0ee71ef5f92af0bca2bde05bf12e55a2cadd718881986"
+    },
+    {
+      "path": "assets/dotgothic16-75-400-normal-CaMzlAkb.woff2",
+      "size": 5428,
+      "sha256": "cd02540b7ba96d9d300e8cae9e5e80e54706d17d8af127042995a788fce7be5f"
+    },
+    {
+      "path": "assets/dotgothic16-76-400-normal-CHmwmSCB.woff",
+      "size": 6780,
+      "sha256": "e82bb09a3cfd7e9c841b1f42aa208dd358bcce13b3cdb6fcabf1fc0b9b672820"
+    },
+    {
+      "path": "assets/dotgothic16-76-400-normal-Ck8YW26d.woff2",
+      "size": 5320,
+      "sha256": "a0d619042a80c1494d451a38bd4693a32e13663546ddf0f8ab3be1d82fb44f90"
+    },
+    {
+      "path": "assets/dotgothic16-77-400-normal-B4DUWZj0.woff",
+      "size": 7080,
+      "sha256": "2edacaf0824be3f500699a3afa6ca266d76fc5280daeb6fcdb404d520ae30ab9"
+    },
+    {
+      "path": "assets/dotgothic16-77-400-normal-CaZufTzo.woff2",
+      "size": 5552,
+      "sha256": "26d0779366fe83889c6c189bd171c35791ca6a78d6ee820729760cbbf41e6705"
+    },
+    {
+      "path": "assets/dotgothic16-78-400-normal-C1DHsBSv.woff",
+      "size": 7056,
+      "sha256": "be6af223c095ed1037e1ff6b010bb75b2d35868973fb1e9c2f8a373a104975d2"
+    },
+    {
+      "path": "assets/dotgothic16-78-400-normal-DuR3Kr_F.woff2",
+      "size": 5408,
+      "sha256": "ef85f103633982efc2c864abddc38001c87262b04be2d1f557b9eefd8a92ee06"
+    },
+    {
+      "path": "assets/dotgothic16-79-400-normal-BTsR6y-s.woff",
+      "size": 6972,
+      "sha256": "75ee9a51b726e1e26565a301e5dc5c5303b2fe6e237e39790a2e16cf47965e5f"
+    },
+    {
+      "path": "assets/dotgothic16-79-400-normal-efwO7zCi.woff2",
+      "size": 5484,
+      "sha256": "e5c4162264b851d24e5555e1ef9b800f40d60e7adad47b33409bb86745256391"
+    },
+    {
+      "path": "assets/dotgothic16-8-400-normal-CT8BjNbl.woff",
+      "size": 10780,
+      "sha256": "dbbe0fb90ebdf81124ec42b9fac3ff31d95e6845c3f0cba8c1379c1036adab30"
+    },
+    {
+      "path": "assets/dotgothic16-8-400-normal-Dy8g_nGf.woff2",
+      "size": 8624,
+      "sha256": "0572bf8884112239b10623d7da86e0728f3173c2fe4878c7b3637fbbba96607a"
+    },
+    {
+      "path": "assets/dotgothic16-80-400-normal-BOT0TY1Q.woff2",
+      "size": 5344,
+      "sha256": "35ddafb56c9bc0e46161ad76d726938827e1be261ac028b1a9f2edbf06152811"
+    },
+    {
+      "path": "assets/dotgothic16-80-400-normal-CN7NHAXy.woff",
+      "size": 6768,
+      "sha256": "9418587837630820d521ad517bb088bf54d78d8ab0b8c7b5841ff26b38d57f1d"
+    },
+    {
+      "path": "assets/dotgothic16-81-400-normal-BtpOFxJC.woff2",
+      "size": 5272,
+      "sha256": "b6964bb09128f774a66e2cf864b34d433387d185596173b9a2de989c7e4c618e"
+    },
+    {
+      "path": "assets/dotgothic16-81-400-normal-d2gih-4W.woff",
+      "size": 6612,
+      "sha256": "32428c5dd1a8165f692f79009ed7668aa7dc14daaaac1a5717311d3842ae1a14"
+    },
+    {
+      "path": "assets/dotgothic16-82-400-normal-C_z_MeJh.woff",
+      "size": 6996,
+      "sha256": "28b975b8c0090718c3ed3287bf171ea8c362fb3ca915b902c05dcbbea3f5e06a"
+    },
+    {
+      "path": "assets/dotgothic16-82-400-normal-DQve92VA.woff2",
+      "size": 5560,
+      "sha256": "1ecff7569a5c7c7fe20f046b942eb54a5bedd2c66e8ef1bdaf90cd8cce58ceca"
+    },
+    {
+      "path": "assets/dotgothic16-83-400-normal-CYXwLB98.woff2",
+      "size": 5476,
+      "sha256": "a691afa93aeaee880de0009e753dab973678e657e51597db2bd204f9fc392920"
+    },
+    {
+      "path": "assets/dotgothic16-83-400-normal-D44TrQDN.woff",
+      "size": 7028,
+      "sha256": "56064043b2d99fb7330107cb216200cd198e9ef0eff2c45d3d9d9a8258cfee02"
+    },
+    {
+      "path": "assets/dotgothic16-84-400-normal-BzeMdofv.woff",
+      "size": 6772,
+      "sha256": "3a2193d1c97503b7531107ac1c7f47f1c8c15987479490ceb573b0783ea680d4"
+    },
+    {
+      "path": "assets/dotgothic16-84-400-normal-C_7eQxWI.woff2",
+      "size": 5252,
+      "sha256": "30d0af4f3fb3595f6ad963ffc782d580b4c9b2b215b61d5f29457c441d49826f"
+    },
+    {
+      "path": "assets/dotgothic16-85-400-normal-DPiYhtE7.woff",
+      "size": 6668,
+      "sha256": "9d7f800224c98f4adcc388859c906665b0eed8469f4377dd8cf626fff10e0636"
+    },
+    {
+      "path": "assets/dotgothic16-85-400-normal-Dmkw0Tgb.woff2",
+      "size": 5224,
+      "sha256": "87157d8239257d64bb9ec694eff0590f4beb1dfcd5f2978ac784e618b8ae6a0d"
+    },
+    {
+      "path": "assets/dotgothic16-86-400-normal-BX6E2Emg.woff",
+      "size": 6668,
+      "sha256": "884ce7e3bf3dfb7c93e75cf479209fec4511494caa2802fef73437b2bc65abc5"
+    },
+    {
+      "path": "assets/dotgothic16-86-400-normal-Ox_TTTlT.woff2",
+      "size": 5128,
+      "sha256": "fa8c504e1334592bbae6d9bff11afdc423d69835743e909861293b73aa626d2f"
+    },
+    {
+      "path": "assets/dotgothic16-87-400-normal-9GSTkPjv.woff2",
+      "size": 5588,
+      "sha256": "9e69e139a0978b4d867e9f5bb02ea9222663203f8916d4686183125f04e8bd0f"
+    },
+    {
+      "path": "assets/dotgothic16-87-400-normal-ByxaqAYi.woff",
+      "size": 7044,
+      "sha256": "12e13e0521a37b8fc8e1fb44af4d4e631d72a0d4265a9e7e47d578e3a1d77f8c"
+    },
+    {
+      "path": "assets/dotgothic16-88-400-normal-B2-sdGwi.woff",
+      "size": 6708,
+      "sha256": "f2aa45b65d6f2c43b73a38651433292fa9725e5907c9bd25dd07192c7cba00ea"
+    },
+    {
+      "path": "assets/dotgothic16-88-400-normal-Db1m1tpZ.woff2",
+      "size": 5264,
+      "sha256": "9f20e2f117f12e847c0a36b1a850332c2a483e0ee4fa7961713a14f744d6de28"
+    },
+    {
+      "path": "assets/dotgothic16-89-400-normal-DLkUawjN.woff",
+      "size": 6580,
+      "sha256": "b3fd372e3ead52e505082252d3cf1678ec97b3e1b5caf49210c619902a9dc9a0"
+    },
+    {
+      "path": "assets/dotgothic16-89-400-normal-rU2gDHqi.woff2",
+      "size": 5112,
+      "sha256": "77595bfdf8babd3bafa4014cd270278581d70659efe7ca92869debfe8dbe3544"
+    },
+    {
+      "path": "assets/dotgothic16-9-400-normal-BZpgpvTz.woff",
+      "size": 10788,
+      "sha256": "2ae3cb0472ef9866fbb82aea4b35c3574b8348f5a6c795323dc76e4c3d7ba965"
+    },
+    {
+      "path": "assets/dotgothic16-9-400-normal-QetsSX0O.woff2",
+      "size": 8692,
+      "sha256": "09cfa2ed79cb3461519498d7ef205f0405e4fe0bf53749e89945c13ed6c9dacc"
+    },
+    {
+      "path": "assets/dotgothic16-90-400-normal-CJ84LuC4.woff",
+      "size": 6932,
+      "sha256": "a2a7c1b66062053dba65dea4ecc60da19b897a30a0baa35d743ad145f425a7e4"
+    },
+    {
+      "path": "assets/dotgothic16-90-400-normal-DD6GgtoL.woff2",
+      "size": 5372,
+      "sha256": "bf8e6c6aebf5c3e9fdd3b316c39df9106957c17506192543ad04721f6b3880d5"
+    },
+    {
+      "path": "assets/dotgothic16-91-400-normal-60N6VRkK.woff",
+      "size": 6904,
+      "sha256": "6cd01a070a3f10f9546f9d1aa328527fed8dd5b2e95547d1e8147345b54095f3"
+    },
+    {
+      "path": "assets/dotgothic16-91-400-normal-BnA8XDdi.woff2",
+      "size": 5488,
+      "sha256": "7e72430f1a715886edc1fa2eb6769250f98b4ada4084c3681519079fccf7bdd8"
+    },
+    {
+      "path": "assets/dotgothic16-92-400-normal-CK-lDa6s.woff2",
+      "size": 5336,
+      "sha256": "193c66d1217a9dc8c72e80c933b7ba81f1dda4f006b6c436976b28efd746b5fd"
+    },
+    {
+      "path": "assets/dotgothic16-92-400-normal-T6BHOr3Z.woff",
+      "size": 6784,
+      "sha256": "0263a68ec5babbe20397d2da33f530335dd123d43d54dc8d9543f3838a16dd8c"
+    },
+    {
+      "path": "assets/dotgothic16-93-400-normal-ATYSzQz8.woff2",
+      "size": 5384,
+      "sha256": "759407e3b7cea4e6a1924b89aecb0af991e1a2c86477d3e9edc58fa994d8e165"
+    },
+    {
+      "path": "assets/dotgothic16-93-400-normal-DWn15oQf.woff",
+      "size": 6812,
+      "sha256": "9839a2dbc4cf99e788aa76f6e0ca546a0b9ad127e55d7fb5c167b89a1ea392ae"
+    },
+    {
+      "path": "assets/dotgothic16-94-400-normal-B8cMgL_8.woff",
+      "size": 6952,
+      "sha256": "59daf86892d9cff02525de8024bcd70b490772b6655b37c32df62ffc7db0218a"
+    },
+    {
+      "path": "assets/dotgothic16-94-400-normal-Cb03lgz5.woff2",
+      "size": 5408,
+      "sha256": "8216bc50fe9f88f13e89cf8285197858ca9b6b1ebde102ef7794925f791990f2"
+    },
+    {
+      "path": "assets/dotgothic16-95-400-normal--qfm2ufT.woff",
+      "size": 6776,
+      "sha256": "e0f06224ca1bb41e37c448c448c51e280f2246148152f26c733d1374c51458dd"
+    },
+    {
+      "path": "assets/dotgothic16-95-400-normal-Co2tYRHr.woff2",
+      "size": 5244,
+      "sha256": "afe4655c98c49081a40167cad9de73be97a28a90512063088ee4611bc6a6905b"
+    },
+    {
+      "path": "assets/dotgothic16-96-400-normal-IZ2_kwu9.woff",
+      "size": 6576,
+      "sha256": "068d6fa0b9f1d3ac1964cb82f58d302e98096bb78f1cb5b149d7bad0049525a6"
+    },
+    {
+      "path": "assets/dotgothic16-96-400-normal-sZfX4m2-.woff2",
+      "size": 5144,
+      "sha256": "0010574890c1c9fdfbb65e3223065529f79f87279cd30cb92fdf32c25e1e29a0"
+    },
+    {
+      "path": "assets/dotgothic16-97-400-normal-CwsnizhD.woff",
+      "size": 6476,
+      "sha256": "4d957238f42b7e2956c3f01aa8266d6cb37680e66b9f872ade1ce7513f726ed1"
+    },
+    {
+      "path": "assets/dotgothic16-97-400-normal-XJjcBjL2.woff2",
+      "size": 5100,
+      "sha256": "76607c7a0a2033bd619a2e6eae25c746e2e8ec27f3d2d6f5db47fcce4cdb2fdf"
+    },
+    {
+      "path": "assets/dotgothic16-98-400-normal-2fWTof9v.woff",
+      "size": 6648,
+      "sha256": "439abbc5621aa8c81b1432f63691861d37a9e0f3064748a66285b1aef06ae364"
+    },
+    {
+      "path": "assets/dotgothic16-98-400-normal-Da_y6Dai.woff2",
+      "size": 5320,
+      "sha256": "ed16c727e562551216977607dd2737587b00df73c953b72f49a4ec2a8f0046fb"
+    },
+    {
+      "path": "assets/dotgothic16-99-400-normal-Cbq4KW-_.woff",
+      "size": 7152,
+      "sha256": "2ae15e778fe60902ee1edcb3800eca97cbfa699c880d666001f089881bb4917f"
+    },
+    {
+      "path": "assets/dotgothic16-99-400-normal-Cv_yrxHh.woff2",
+      "size": 5620,
+      "sha256": "3a728ba56ce008f826431066c29e400b9af7817c2dd97a70d3c05b18fd2cf0b7"
+    },
+    {
+      "path": "assets/dotgothic16-cyrillic-400-normal-CcEIrKOp.woff",
+      "size": 4412,
+      "sha256": "ea0212d9fc1b54b6e95b568258467886ceb250593dc797b2a05748e60bae5c30"
+    },
+    {
+      "path": "assets/dotgothic16-latin-400-normal-BYJEY5oh.woff2",
+      "size": 10508,
+      "sha256": "d29abf817463fdba7e9e87fc954cfa2b60ea6534e8a79c46e858a0dc5aa6a6f6"
+    },
+    {
+      "path": "assets/dotgothic16-latin-400-normal-cp5t3xa_.woff",
+      "size": 15540,
+      "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
+    },
+    {
+      "path": "assets/index-CA-_u3Mw.js",
+      "size": 2197891,
+      "sha256": "69f020e321b8cc691379d557d89f23a4a9e08c17b5ef9e48ca1501dbbddf0138"
+    },
+    {
+      "path": "assets/index-vdXE9OAX.css",
+      "size": 152967,
+      "sha256": "0eb23bcf6b7b5df699088f6e8fcd3fb0ec14ec3ac5666731db168940a9f58111"
+    },
+    {
+      "path": "index.html",
+      "size": 691,
+      "sha256": "10c581e5e3ebdcca8ac5844f8aec741af272a5cfc98d1b20d8d1cb9b27d37c2a"
+    }
+  ],
+  "totalSize": 4061873
+}
