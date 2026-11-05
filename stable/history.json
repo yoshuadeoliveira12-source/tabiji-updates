@@ -3,6 +3,16 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.7",
+      "publishedAt": "2026-11-05T19:12:02.276Z",
+      "title": "Multiplayer｜マルチプレイ",
+      "items": [
+        "New separate Multiplayer mode, free: use the Multiplayer button in the launcher or on the title screen. One of you hosts a world and the others join with the host's address. You see each other walk around and can chat with T.｜新しい「マルチプレイ」モード（無料）。ランチャーまたはタイトル画面の「マルチ」から。ひとりがホストになり、ほかの人はホストのアドレスで参加します。歩く姿が見えて、Tキーでチャットできます。",
+        "Multiplayer has its own character and save, so it never changes your single-player game, and single-player has no multiplayer menus.｜マルチプレイには専用のキャラクターとセーブがあり、ひとり用のゲームには影響しません。",
+        "Hosting needs the newest installer. Older apps can still update, but cannot join until they install the new version.｜ホストにはいちばん新しいインストーラーが必要です。古いアプリでもアップデートはできますが、新しいバージョンを入れるまで参加はできません。"
+      ]
+    },
+    {
       "version": "1.0.6",
       "publishedAt": "2026-10-30T15:49:46.794Z",
       "title": "Hotels with rooms, new stations, clear doorways｜ホテルの客室、新しい駅、通りやすい入口",
