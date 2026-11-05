@@ -2,15 +2,13 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.7",
-  "publishedAt": "2026-11-05T19:12:02.276Z",
+  "version": "1.0.8",
+  "publishedAt": "2026-11-05T21:39:51.718Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Multiplayer｜マルチプレイ",
+    "title": "Clearer Multiplayer menu｜マルチプレイ画面をわかりやすく",
     "items": [
-      "New separate Multiplayer mode, free: use the Multiplayer button in the launcher or on the title screen. One of you hosts a world and the others join with the host's address. You see each other walk around and can chat with T.｜新しい「マルチプレイ」モード（無料）。ランチャーまたはタイトル画面の「マルチ」から。ひとりがホストになり、ほかの人はホストのアドレスで参加します。歩く姿が見えて、Tキーでチャットできます。",
-      "Multiplayer has its own character and save, so it never changes your single-player game, and single-player has no multiplayer menus.｜マルチプレイには専用のキャラクターとセーブがあり、ひとり用のゲームには影響しません。",
-      "Hosting needs the newest installer. Older apps can still update, but cannot join until they install the new version.｜ホストにはいちばん新しいインストーラーが必要です。古いアプリでもアップデートはできますが、新しいバージョンを入れるまで参加はできません。"
+      "The Multiplayer screen now always shows \"Host a world\". If your app is too old to host, it tells you to install the newest installer instead of hiding the option.｜マルチプレイ画面に「ホストする」を常に表示します。アプリが古くてホストできないときは、最新のインストーラーを入れるよう案内します。"
     ]
   },
   "files": [
@@ -1160,9 +1158,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-DeAEQ5zj.js",
-      "size": 2228922,
-      "sha256": "2d83d80cc2312799d6bd2e7154cf6278e16b55a892716c18d7bbafb4f7dd0152"
+      "path": "assets/index-DWXYT6u-.js",
+      "size": 2229416,
+      "sha256": "edbb22080294c66d7bd97c7a74ffca215470175ffe53aa229829563deeaa7b46"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1172,8 +1170,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "5850cf6bfc728737cba840ed9374fcf476b79030bb1de0c5ad72962271cc56b3"
+      "sha256": "e473539ab780015fe5d0c3731035c6fbb6c17af9b78812d2d958459777d07695"
     }
   ],
-  "totalSize": 4092904
+  "totalSize": 4093398
 }

@@ -3,6 +3,14 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.8",
+      "publishedAt": "2026-11-05T21:39:51.718Z",
+      "title": "Clearer Multiplayer menu｜マルチプレイ画面をわかりやすく",
+      "items": [
+        "The Multiplayer screen now always shows \"Host a world\". If your app is too old to host, it tells you to install the newest installer instead of hiding the option.｜マルチプレイ画面に「ホストする」を常に表示します。アプリが古くてホストできないときは、最新のインストーラーを入れるよう案内します。"
+      ]
+    },
+    {
       "version": "1.0.7",
       "publishedAt": "2026-11-05T19:12:02.276Z",
       "title": "Multiplayer｜マルチプレイ",
