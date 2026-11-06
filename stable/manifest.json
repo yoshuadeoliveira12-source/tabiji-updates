@@ -2,13 +2,15 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.8",
-  "publishedAt": "2026-11-05T21:39:51.718Z",
+  "version": "1.0.9",
+  "publishedAt": "2026-11-06T14:19:23.619Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Clearer Multiplayer menu｜マルチプレイ画面をわかりやすく",
+    "title": "Always open + more Japanese lessons｜いつでも営業＋日本語レッスン追加",
     "items": [
-      "The Multiplayer screen now always shows \"Host a world\". If your app is too old to host, it tells you to install the newest installer instead of hiding the option.｜マルチプレイ画面に「ホストする」を常に表示します。アプリが古くてホストできないときは、最新のインストーラーを入れるよう案内します。"
+      "Buildings are now always open — no more \"Closed right now\".｜お店や建物はいつでも入れます。「閉店中」はなくなりました。",
+      "New lessons: check in at a hotel front desk, buy takoyaki, deer crackers, okonomiyaki, order a Hakata noodle refill (替え玉), and ask for directions.｜新しいレッスン：ホテルのチェックイン、たこ焼き・鹿せんべい・お好み焼きの注文、替え玉、道の聞き方。",
+      "20+ new words and phrases (予約, 一泊, 鍵, 右, 左, まっすぐ…).｜新しい単語とフレーズを20以上追加。"
     ]
   },
   "files": [
@@ -1158,9 +1160,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-DWXYT6u-.js",
-      "size": 2229416,
-      "sha256": "edbb22080294c66d7bd97c7a74ffca215470175ffe53aa229829563deeaa7b46"
+      "path": "assets/index-HyNoXiEX.js",
+      "size": 2245475,
+      "sha256": "b3982992f144b9d380fd745e5cd6982e7b08de0e22bf9c3b9e16f89ee1740696"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1170,8 +1172,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "e473539ab780015fe5d0c3731035c6fbb6c17af9b78812d2d958459777d07695"
+      "sha256": "50849b9cf1b3a05de391f47361ba7a3a90afa182e17f3856372181b94ff43e1e"
     }
   ],
-  "totalSize": 4093398
+  "totalSize": 4109457
 }

@@ -3,6 +3,16 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.9",
+      "publishedAt": "2026-11-06T14:19:23.619Z",
+      "title": "Always open + more Japanese lessons｜いつでも営業＋日本語レッスン追加",
+      "items": [
+        "Buildings are now always open — no more \"Closed right now\".｜お店や建物はいつでも入れます。「閉店中」はなくなりました。",
+        "New lessons: check in at a hotel front desk, buy takoyaki, deer crackers, okonomiyaki, order a Hakata noodle refill (替え玉), and ask for directions.｜新しいレッスン：ホテルのチェックイン、たこ焼き・鹿せんべい・お好み焼きの注文、替え玉、道の聞き方。",
+        "20+ new words and phrases (予約, 一泊, 鍵, 右, 左, まっすぐ…).｜新しい単語とフレーズを20以上追加。"
+      ]
+    },
+    {
       "version": "1.0.8",
       "publishedAt": "2026-11-05T21:39:51.718Z",
       "title": "Clearer Multiplayer menu｜マルチプレイ画面をわかりやすく",
