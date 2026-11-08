@@ -2,15 +2,26 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.9",
-  "publishedAt": "2026-11-06T14:19:23.619Z",
+  "version": "1.0.10",
+  "publishedAt": "2026-11-08T11:43:58.722Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Always open + more Japanese lessons｜いつでも営業＋日本語レッスン追加",
+    "title": "Cozy towns, new places & games｜居心地のいい街・新しい場所・ゲーム",
     "items": [
-      "Buildings are now always open — no more \"Closed right now\".｜お店や建物はいつでも入れます。「閉店中」はなくなりました。",
-      "New lessons: check in at a hotel front desk, buy takoyaki, deer crackers, okonomiyaki, order a Hakata noodle refill (替え玉), and ask for directions.｜新しいレッスン：ホテルのチェックイン、たこ焼き・鹿せんべい・お好み焼きの注文、替え玉、道の聞き方。",
-      "20+ new words and phrases (予約, 一泊, 鍵, 右, 左, まっすぐ…).｜新しい単語とフレーズを20以上追加。"
+      "All the cities now have made-up names and a cozy look: Hoshigaoka, Tsukimiyako, Minatomachi, Shikamori, Momijigawa and Tsurumi, with their own districts, stations and sights.｜どの街も架空の名前になり、居心地のいい雰囲気にそろえました。",
+      "Buildings are always open — no more \"Closed right now\".｜お店や建物はいつでも入れます。",
+      "New lessons: check in at a hotel, order street food in each city, ask for directions.｜新しいレッスン：ホテルのチェックイン、屋台での注文、道の聞き方。",
+      "Bathhouses you can actually use: buy a ticket, change at a locker, wash, then soak (some have a sauna and a cold basin).｜本物の銭湯：券を買い、ロッカーで着替え、体を洗ってから湯船へ。",
+      "Multi-floor fashion stores with men's, women's and accessories floors, and lots of new clothes.｜メンズ・レディース・小物の複数階ファッション店。",
+      "Game Hoshi: buy a console and games, try free demos, and play them on the TV at home.｜ゲームほし：本体とソフトを買って、家のテレビで遊べます。",
+      "The giant crab restaurant, with crab courses upstairs.｜大きなカニの看板のレストラン。",
+      "Bigger homes: the house, townhouse, villa, loft and penthouse have 2–3 floors joined by stairs.｜家が広くなり、2〜3階建ての家もできました。",
+      "Benches, bins, vending machines and signs no longer stand in the middle of walkways; nothing floats on water or sits inside a building.｜ベンチや自販機などが道の真ん中をふさがないようにしました。",
+      "Zebra crossings now run the right way, and streets get busier or quieter through the day and from place to place.｜横断歩道の向きを修正。時間や場所で人通りが変わります。",
+      "A new taxi ride scene: pull away, stop at a red light while people cross, then go on.｜新しいタクシー乗車シーン。",
+      "The whole game is now a cozy night, whatever the clock says: deep blue shadows with warm glowing windows and lamps.｜ゲームはいつでも居心地のいい夜になりました。窓やランプが温かく光ります。",
+      "The camera is zoomed in closer on your character, and small rooms fill the screen.｜カメラがキャラクターに近づき、小さな部屋は画面いっぱいに映ります。",
+      "Multiplayer hosts can run the relay with a private admin panel to send gifts, announcements and events.｜マルチプレイの主催者は、プレゼントやお知らせ、イベントを送れる管理画面を使えます。"
     ]
   },
   "files": [
@@ -1160,9 +1171,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-HyNoXiEX.js",
-      "size": 2245475,
-      "sha256": "b3982992f144b9d380fd745e5cd6982e7b08de0e22bf9c3b9e16f89ee1740696"
+      "path": "assets/index-TMpqWipF.js",
+      "size": 2311454,
+      "sha256": "e66b4b80153930980c7286052cc2dfeabe7f10e2f96042c5dd6cdeb13767020d"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1172,8 +1183,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "50849b9cf1b3a05de391f47361ba7a3a90afa182e17f3856372181b94ff43e1e"
+      "sha256": "cf6e8acca9dbc913da8f2ced524b43bbc4d0e100594f32e4d4f3be174a77f7bb"
     }
   ],
-  "totalSize": 4109457
+  "totalSize": 4175436
 }
