@@ -3,6 +3,15 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.11",
+      "publishedAt": "2026-11-08T11:47:58.899Z",
+      "title": "Safer multiplayer admin｜マルチプレイの管理機能を安全に",
+      "items": [
+        "Admin tools are now locked to the game's creator: the game ignores admin commands from any other world host.｜管理機能は制作者だけが使えます。他のホストからの管理コマンドは無視されます。",
+        "The developer console is no longer part of the released game.｜開発用コンソールは製品版から取り除きました。"
+      ]
+    },
+    {
       "version": "1.0.10",
       "publishedAt": "2026-11-08T11:43:58.722Z",
       "title": "Cozy towns, new places & games｜居心地のいい街・新しい場所・ゲーム",
