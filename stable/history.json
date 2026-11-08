@@ -3,6 +3,14 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.12",
+      "publishedAt": "2026-11-08T13:02:26.434Z",
+      "title": "Cleanup｜整理",
+      "items": [
+        "Removed the multiplayer admin tools added in the last two updates. Multiplayer works as before.｜直前の更新で追加したマルチプレイの管理機能を削除しました。マルチプレイはこれまでどおり使えます。"
+      ]
+    },
+    {
       "version": "1.0.11",
       "publishedAt": "2026-11-08T11:47:58.899Z",
       "title": "Safer multiplayer admin｜マルチプレイの管理機能を安全に",
