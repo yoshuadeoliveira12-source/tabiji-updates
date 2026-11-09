@@ -2,14 +2,13 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.13",
-  "publishedAt": "2026-11-09T15:40:52.943Z",
+  "version": "1.0.14",
+  "publishedAt": "2026-11-09T17:05:20.338Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Shelves & conversations｜棚とおしゃべり",
+    "title": "Fridge fix｜冷蔵庫の修正",
     "items": [
-      "In stores with shelves, take goods off the shelves and pay at the register instead of picking from a menu.｜棚のあるお店では、メニューから選ぶ代わりに商品を棚から取って、レジで支払います。",
-      "Reply to people after they talk: pick a Japanese reply or type your own (greetings, thanks, how are you...).｜話しかけたあと、返事ができます。日本語の返事を選ぶか、自分で入力できます。"
+      "In stores, the drinks fridge now works like the shelves: take a drink and pay at the register.｜お店の飲み物の冷蔵庫も棚と同じように、飲み物を取ってレジで支払えるようになりました。"
     ]
   },
   "files": [
@@ -1159,9 +1158,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-BRu1ki1B.js",
-      "size": 2315920,
-      "sha256": "f4415222c2f54e9686a8c2e7d8a18349c8c7945d920a399a60a8d420caee8a1c"
+      "path": "assets/index-COkp2GFQ.js",
+      "size": 2315942,
+      "sha256": "53928355a71897f5fa0500044ebda97928521fea30d61638e60671bc763ac479"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1171,8 +1170,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "5ae85c9eddff9cdd4c003e6fe2c6c7b7df0d590dd5da8887df4355d0b41630c6"
+      "sha256": "81cd8ff20927efac489b80cb5a1da581f93d80b024e015b63dd29761b2b111b4"
     }
   ],
-  "totalSize": 4179902
+  "totalSize": 4179924
 }

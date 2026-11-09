@@ -3,6 +3,14 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.14",
+      "publishedAt": "2026-11-09T17:05:20.338Z",
+      "title": "Fridge fix｜冷蔵庫の修正",
+      "items": [
+        "In stores, the drinks fridge now works like the shelves: take a drink and pay at the register.｜お店の飲み物の冷蔵庫も棚と同じように、飲み物を取ってレジで支払えるようになりました。"
+      ]
+    },
+    {
       "version": "1.0.13",
       "publishedAt": "2026-11-09T15:40:52.943Z",
       "title": "Shelves & conversations｜棚とおしゃべり",
