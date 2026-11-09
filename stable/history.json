@@ -3,6 +3,15 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.13",
+      "publishedAt": "2026-11-09T15:40:52.943Z",
+      "title": "Shelves & conversations｜棚とおしゃべり",
+      "items": [
+        "In stores with shelves, take goods off the shelves and pay at the register instead of picking from a menu.｜棚のあるお店では、メニューから選ぶ代わりに商品を棚から取って、レジで支払います。",
+        "Reply to people after they talk: pick a Japanese reply or type your own (greetings, thanks, how are you...).｜話しかけたあと、返事ができます。日本語の返事を選ぶか、自分で入力できます。"
+      ]
+    },
+    {
       "version": "1.0.12",
       "publishedAt": "2026-11-08T13:02:26.434Z",
       "title": "Cleanup｜整理",

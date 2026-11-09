@@ -2,13 +2,14 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.12",
-  "publishedAt": "2026-11-08T13:02:26.434Z",
+  "version": "1.0.13",
+  "publishedAt": "2026-11-09T15:40:52.943Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Cleanup｜整理",
+    "title": "Shelves & conversations｜棚とおしゃべり",
     "items": [
-      "Removed the multiplayer admin tools added in the last two updates. Multiplayer works as before.｜直前の更新で追加したマルチプレイの管理機能を削除しました。マルチプレイはこれまでどおり使えます。"
+      "In stores with shelves, take goods off the shelves and pay at the register instead of picking from a menu.｜棚のあるお店では、メニューから選ぶ代わりに商品を棚から取って、レジで支払います。",
+      "Reply to people after they talk: pick a Japanese reply or type your own (greetings, thanks, how are you...).｜話しかけたあと、返事ができます。日本語の返事を選ぶか、自分で入力できます。"
     ]
   },
   "files": [
@@ -1158,9 +1159,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-BpAEadm4.js",
-      "size": 2306940,
-      "sha256": "7d09a774ce4e8fda27967b17c9d7ae0416f8e24d5d7f63a30c954543118135a7"
+      "path": "assets/index-BRu1ki1B.js",
+      "size": 2315920,
+      "sha256": "f4415222c2f54e9686a8c2e7d8a18349c8c7945d920a399a60a8d420caee8a1c"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1170,8 +1171,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "e64c2434fdff4bbe9c24e246c841c38fd1bb5d5c99f70cc92c3a58feeca19094"
+      "sha256": "5ae85c9eddff9cdd4c003e6fe2c6c7b7df0d590dd5da8887df4355d0b41630c6"
     }
   ],
-  "totalSize": 4170922
+  "totalSize": 4179902
 }
