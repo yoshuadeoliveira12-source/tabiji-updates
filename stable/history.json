@@ -3,6 +3,16 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.16",
+      "publishedAt": "2026-11-09T22:31:29.536Z",
+      "title": "Sit down and look around｜座って見てみよう",
+      "items": [
+        "Sitting at a school desk or a ramen stool now shows what you would see: the teacher giving a lesson with students at their desks, or the chef cooking behind the counter. ←/→ turn your head.｜学校の机やラーメン屋のカウンター席に座ると、目の前の景色に切り替わります。授業をする先生と生徒たち、カウンターの中で調理する店主が見えます。←/→ で見回せます。",
+        "At the ramen counter, order and watch the chef cook, then eat the noodles with chopsticks.｜ラーメン屋では注文すると店主が調理し、お箸で麺を食べられます。",
+        "In class, \"Doodle in your notebook\" lets you pick up the pen and draw a cat.｜授業中に「ノートに落書き」を選ぶと、ペンを持って猫の絵を描きます。"
+      ]
+    },
+    {
       "version": "1.0.15",
       "publishedAt": "2026-11-09T17:30:23.543Z",
       "title": "Characters in conversation｜会話のキャラクター",

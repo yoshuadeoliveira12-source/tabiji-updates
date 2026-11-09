@@ -2,16 +2,38 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.15",
-  "publishedAt": "2026-11-09T17:30:23.543Z",
+  "version": "1.0.16",
+  "publishedAt": "2026-11-09T22:31:29.536Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Characters in conversation｜会話のキャラクター",
+    "title": "Sit down and look around｜座って見てみよう",
     "items": [
-      "The person you are talking to now appears above the text box.｜話している相手が、テキストボックスの上に大きく表示されるようになりました。"
+      "Sitting at a school desk or a ramen stool now shows what you would see: the teacher giving a lesson with students at their desks, or the chef cooking behind the counter. ←/→ turn your head.｜学校の机やラーメン屋のカウンター席に座ると、目の前の景色に切り替わります。授業をする先生と生徒たち、カウンターの中で調理する店主が見えます。←/→ で見回せます。",
+      "At the ramen counter, order and watch the chef cook, then eat the noodles with chopsticks.｜ラーメン屋では注文すると店主が調理し、お箸で麺を食べられます。",
+      "In class, \"Doodle in your notebook\" lets you pick up the pen and draw a cat.｜授業中に「ノートに落書き」を選ぶと、ペンを持って猫の絵を描きます。"
     ]
   },
   "files": [
+    {
+      "path": "assets/bowl-BGlH2FcB.png",
+      "size": 63630,
+      "sha256": "6a6a7c2b0172eb25507b03916dc486c4b77d2df1d6b1ba6cb5d8487c1b37adb7"
+    },
+    {
+      "path": "assets/chand_l-HtzPMOql.png",
+      "size": 16704,
+      "sha256": "5475a99092e7e80963924e1d782e64bced40fb3b2f6d049e59d0ab0d9a8a8614"
+    },
+    {
+      "path": "assets/chand_r-CP3eGvTn.png",
+      "size": 19840,
+      "sha256": "12aff7ec27eec73f22741d2261fc1ad3d6684e2e06f98ceeb0b58f60d05bb08f"
+    },
+    {
+      "path": "assets/classroom-BYQMeAkq.webp",
+      "size": 112576,
+      "sha256": "3cec5406e5e9ff83036c6f6ca123a98ed9b2093b32fcb99058f0de22ad6739e0"
+    },
     {
       "path": "assets/dotgothic16-10-400-normal-CxZhSOI0.woff",
       "size": 11612,
@@ -1158,9 +1180,19 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-DpYCwqZM.js",
-      "size": 2316191,
-      "sha256": "f8d3a9d3ebd4dd7cbb4526d1cb2a80301f6b05a165873f3d9f55d640e5d49c87"
+      "path": "assets/hand_l-DlDQi5F7.png",
+      "size": 19771,
+      "sha256": "f4c98a137d074c4492503d75d4ab221729371cd2b188880d0ea385829eeb21c3"
+    },
+    {
+      "path": "assets/hand_r-Cv_V3jPg.png",
+      "size": 18147,
+      "sha256": "74649bad4c5b6847b7280b18a166ade98bf870d397933cbd7aece781c08896f6"
+    },
+    {
+      "path": "assets/index-BAJw1gL2.js",
+      "size": 2333640,
+      "sha256": "5381bc92257cba2185be8a042ed11ba4c98a6f8cdfce7974e36b320dfc4ccb47"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1168,10 +1200,15 @@
       "sha256": "0eb23bcf6b7b5df699088f6e8fcd3fb0ec14ec3ac5666731db168940a9f58111"
     },
     {
+      "path": "assets/ramen-B6nUZ2xk.webp",
+      "size": 71526,
+      "sha256": "b1a6ea9fc607f7962217fb56c61dfbe17fe13f9e5548948d9a4b2ad0aa10ed04"
+    },
+    {
       "path": "index.html",
       "size": 691,
-      "sha256": "6a1eb0aa7e639163ceefe08e3b91d9921d92cd7d7e92d7d2c0a3d98435f01258"
+      "sha256": "3fb61994ee22c5b88fff38f24451a6df0af65ebd0d0a983f3121d193d0bdb939"
     }
   ],
-  "totalSize": 4180173
+  "totalSize": 4519816
 }
