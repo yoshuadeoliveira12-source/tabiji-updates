@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "tabiji",
   "channel": "stable",
-  "version": "1.0.14",
-  "publishedAt": "2026-11-09T17:05:20.338Z",
+  "version": "1.0.15",
+  "publishedAt": "2026-11-09T17:30:23.543Z",
   "minLauncherVersion": "1.0.0",
   "notes": {
-    "title": "Fridge fix｜冷蔵庫の修正",
+    "title": "Characters in conversation｜会話のキャラクター",
     "items": [
-      "In stores, the drinks fridge now works like the shelves: take a drink and pay at the register.｜お店の飲み物の冷蔵庫も棚と同じように、飲み物を取ってレジで支払えるようになりました。"
+      "The person you are talking to now appears above the text box.｜話している相手が、テキストボックスの上に大きく表示されるようになりました。"
     ]
   },
   "files": [
@@ -1158,9 +1158,9 @@
       "sha256": "32719b3cc5f047dc2de1dc17740ec1ee58afd18109a599d082ee3afd117ba260"
     },
     {
-      "path": "assets/index-COkp2GFQ.js",
-      "size": 2315942,
-      "sha256": "53928355a71897f5fa0500044ebda97928521fea30d61638e60671bc763ac479"
+      "path": "assets/index-DpYCwqZM.js",
+      "size": 2316191,
+      "sha256": "f8d3a9d3ebd4dd7cbb4526d1cb2a80301f6b05a165873f3d9f55d640e5d49c87"
     },
     {
       "path": "assets/index-vdXE9OAX.css",
@@ -1170,8 +1170,8 @@
     {
       "path": "index.html",
       "size": 691,
-      "sha256": "81cd8ff20927efac489b80cb5a1da581f93d80b024e015b63dd29761b2b111b4"
+      "sha256": "6a1eb0aa7e639163ceefe08e3b91d9921d92cd7d7e92d7d2c0a3d98435f01258"
     }
   ],
-  "totalSize": 4179924
+  "totalSize": 4180173
 }

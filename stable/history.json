@@ -3,6 +3,14 @@
   "channel": "stable",
   "releases": [
     {
+      "version": "1.0.15",
+      "publishedAt": "2026-11-09T17:30:23.543Z",
+      "title": "Characters in conversation｜会話のキャラクター",
+      "items": [
+        "The person you are talking to now appears above the text box.｜話している相手が、テキストボックスの上に大きく表示されるようになりました。"
+      ]
+    },
+    {
       "version": "1.0.14",
       "publishedAt": "2026-11-09T17:05:20.338Z",
       "title": "Fridge fix｜冷蔵庫の修正",
